@@ -1,0 +1,2069 @@
+session_id,date,productSKU,category,channel,device,revenue
+17,2016-12-26,GGOE00002,Apparel,Direct,desktop,49.23
+78,2016-11-28,GGOE00139,Bags,Direct,desktop,91.7
+98,2016-11-16,GGOE00120,Bags,Paid Search,desktop,79.13
+228,2017-01-28,GGOE00039,Apparel,Affiliates,desktop,19.41
+256,2016-12-29,GGOE00117,Bags,Organic Search,desktop,56.08
+343,2016-12-14,GGOE00170,Office,Direct,desktop,16.07
+367,2017-01-30,GGOE00345,Nest,Organic Search,desktop,110.64
+474,2017-01-21,GGOE00097,Bags,Referral,desktop,13.34
+496,2016-12-01,GGOE00276,Electronics Accessories,Organic Search,desktop,35.61
+507,2017-01-24,GGOE00161,Office,Organic Search,desktop,21.16
+534,2016-11-03,GGOE00168,Office,Referral,desktop,24.07
+561,2017-01-06,GGOE00299,Headgear,Paid Search,desktop,28.51
+672,2017-01-18,GGOE00349,Nest,Paid Search,mobile,57.26
+722,2017-01-14,GGOE00314,Headgear,Organic Search,desktop,18.46
+958,2016-12-24,GGOE00288,Headgear,Direct,desktop,12.98
+981,2016-11-20,GGOE00079,Drinkware,Referral,desktop,8.64
+982,2016-11-01,GGOE00028,Apparel,Organic Search,desktop,42.2
+1227,2016-11-06,GGOE00339,Nest,Paid Search,desktop,228.94
+1319,2017-01-06,GGOE00121,Bags,Referral,desktop,97.23
+1569,2017-01-03,GGOE00153,Office,Paid Search,desktop,16.11
+1570,2016-11-29,GGOE00093,Drinkware,Referral,desktop,18.69
+1776,2016-12-12,GGOE00007,Apparel,Social,desktop,51.42
+1872,2016-11-10,GGOE00229,Lifestyle,Direct,desktop,67.21
+1910,2016-11-25,GGOE00282,Electronics Accessories,Organic Search,desktop,34.81
+2100,2016-11-28,GGOE00018,Apparel,Organic Search,desktop,41.86
+2158,2016-11-14,GGOE00245,Electronics Accessories,Organic Search,desktop,30.82
+2174,2016-11-03,GGOE00122,Bags,Organic Search,desktop,66.43
+2210,2017-01-05,GGOE00286,Headgear,Paid Search,desktop,32.21
+2352,2017-01-09,GGOE00310,Headgear,Social,mobile,27.48
+2365,2017-01-20,GGOE00153,Office,Referral,desktop,16.11
+2427,2016-11-08,GGOE00106,Bags,Referral,desktop,85.21
+2446,2017-01-20,GGOE00161,Office,Paid Search,desktop,21.16
+2502,2017-01-09,GGOE00284,Headgear,Direct,desktop,22.48
+2509,2016-11-18,GGOE00258,Electronics Accessories,Direct,desktop,6.26
+2605,2016-11-18,GGOE00041,Apparel,Organic Search,desktop,54.26
+2696,2016-11-13,GGOE00034,Apparel,Referral,desktop,45.22
+2798,2016-11-24,GGOE00085,Drinkware,Organic Search,desktop,21.04
+3008,2016-11-20,GGOE00239,Electronics Accessories,Direct,desktop,13.62
+3030,2016-11-27,GGOE00011,Apparel,Direct,desktop,25.36
+3112,2016-12-20,GGOE00289,Headgear,Organic Search,desktop,29.59
+3192,2016-12-27,GGOE00128,Bags,Referral,desktop,48.07
+3202,2016-11-06,GGOE00025,Apparel,Direct,desktop,36.71
+3257,2016-12-17,GGOE00223,Lifestyle,Referral,desktop,15.89
+3321,2016-12-24,GGOE00239,Electronics Accessories,Organic Search,desktop,13.62
+3332,2016-12-28,GGOE00188,Lifestyle,Referral,desktop,23.38
+3338,2016-11-23,GGOE00246,Electronics Accessories,Organic Search,desktop,37.88
+3361,2016-12-09,GGOE00063,Drinkware,Organic Search,mobile,8.77
+3551,2016-12-15,GGOE00002,Apparel,Organic Search,desktop,49.23
+3692,2016-12-26,GGOE00250,Electronics Accessories,Organic Search,desktop,12.03
+3784,2017-01-16,GGOE00325,Headgear,Referral,desktop,11.15
+4065,2017-01-08,GGOE00151,Office,Direct,desktop,17.24
+4097,2017-01-30,GGOE00191,Lifestyle,Organic Search,desktop,56.41
+4099,2016-11-20,GGOE00091,Drinkware,Organic Search,desktop,26.91
+4203,2016-12-19,GGOE00332,Nest,Direct,desktop,103.3
+4206,2016-11-03,GGOE00109,Bags,Referral,desktop,94.18
+4290,2016-11-12,GGOE00356,Nest,Organic Search,desktop,216.47
+4294,2017-01-21,GGOE00025,Apparel,Direct,desktop,36.71
+4295,2016-12-15,GGOE00247,Electronics Accessories,Affiliates,desktop,18.83
+4306,2017-01-20,GGOE00115,Bags,Affiliates,desktop,99.16
+4324,2016-11-16,GGOE00005,Apparel,Referral,desktop,53.93
+4425,2016-12-01,GGOE00183,Lifestyle,Organic Search,desktop,11.83
+4604,2016-11-02,GGOE00090,Drinkware,Referral,desktop,5.95
+4642,2016-11-24,GGOE00038,Apparel,Organic Search,desktop,51.84
+4732,2016-11-02,GGOE00269,Electronics Accessories,Organic Search,desktop,10.86
+4758,2016-11-27,GGOE00088,Drinkware,Direct,desktop,15.27
+4833,2016-12-20,GGOE00281,Electronics Accessories,Paid Search,desktop,24.79
+4867,2016-11-08,GGOE00314,Headgear,Referral,desktop,18.46
+4902,2017-01-23,GGOE00290,Headgear,Organic Search,desktop,25.4
+4912,2016-12-06,GGOE00217,Lifestyle,Paid Search,desktop,70.88
+4991,2017-01-27,GGOE00139,Bags,Organic Search,desktop,91.7
+5062,2017-01-12,GGOE00130,Bags,Referral,desktop,73.07
+5067,2016-11-26,GGOE00316,Headgear,Direct,desktop,28.53
+5101,2016-12-23,GGOE00011,Apparel,Organic Search,desktop,25.36
+5111,2016-12-06,GGOE00266,Electronics Accessories,Organic Search,desktop,15.87
+5142,2016-11-22,GGOE00285,Headgear,Paid Search,desktop,28.2
+5294,2016-11-09,GGOE00155,Office,Organic Search,desktop,8.98
+5360,2016-12-26,GGOE00066,Drinkware,Paid Search,desktop,15.06
+5421,2016-12-13,GGOE00247,Electronics Accessories,Social,desktop,18.83
+5528,2017-01-20,GGOE00133,Bags,Organic Search,desktop,114.72
+5531,2016-12-20,GGOE00347,Nest,Organic Search,desktop,105.79
+5546,2016-12-20,GGOE00235,Electronics Accessories,Direct,desktop,12.02
+5719,2016-12-29,GGOE00052,Apparel,Direct,desktop,14.84
+5734,2017-01-14,GGOE00241,Electronics Accessories,Referral,tablet,30.6
+5751,2016-11-02,GGOE00352,Nest,Organic Search,desktop,93.08
+5769,2017-01-14,GGOE00076,Drinkware,Social,desktop,28.62
+5799,2016-11-06,GGOE00148,Office,Paid Search,desktop,23.82
+5886,2017-01-02,GGOE00009,Apparel,Organic Search,desktop,34.46
+6053,2016-12-21,GGOE00280,Electronics Accessories,Organic Search,desktop,5.7
+6193,2016-12-27,GGOE00046,Apparel,Referral,desktop,16.39
+6316,2016-12-07,GGOE00193,Lifestyle,Direct,desktop,63.59
+6326,2016-12-08,GGOE00137,Bags,Organic Search,desktop,67.33
+6345,2016-11-08,GGOE00110,Bags,Direct,desktop,110.01
+6413,2016-12-14,GGOE00316,Headgear,Paid Search,desktop,28.53
+6484,2017-01-29,GGOE00144,Office,Referral,desktop,23.15
+6547,2016-12-24,GGOE00118,Bags,Organic Search,mobile,99.68
+6573,2017-01-07,GGOE00341,Nest,Organic Search,desktop,63.19
+6640,2017-01-11,GGOE00025,Apparel,Organic Search,desktop,36.71
+6729,2016-11-06,GGOE00337,Nest,Social,desktop,127.45
+6740,2016-12-20,GGOE00105,Bags,Paid Search,desktop,74.93
+6871,2017-01-26,GGOE00314,Headgear,Social,desktop,18.46
+6911,2017-01-13,GGOE00094,Drinkware,Organic Search,desktop,13.05
+7210,2017-01-11,GGOE00264,Electronics Accessories,Organic Search,desktop,41.07
+7238,2016-11-04,GGOE00058,Drinkware,Organic Search,desktop,29.47
+7399,2016-11-06,GGOE00214,Lifestyle,Organic Search,tablet,78.75
+7449,2017-01-12,GGOE00248,Electronics Accessories,Referral,desktop,18.61
+7557,2017-01-31,GGOE00129,Bags,Direct,desktop,114.29
+7632,2016-12-09,GGOE00222,Lifestyle,Paid Search,desktop,57.97
+7635,2017-01-01,GGOE00037,Apparel,Paid Search,desktop,12.18
+7657,2017-01-11,GGOE00096,Drinkware,Paid Search,desktop,5.63
+7669,2016-11-28,GGOE00236,Electronics Accessories,Direct,tablet,26.68
+7709,2017-01-01,GGOE00214,Lifestyle,Direct,desktop,78.75
+7720,2016-12-15,GGOE00037,Apparel,Organic Search,desktop,12.18
+7767,2016-11-28,GGOE00306,Headgear,Organic Search,desktop,30.8
+7787,2017-01-09,GGOE00119,Bags,Direct,desktop,11.57
+7789,2016-11-14,GGOE00259,Electronics Accessories,Organic Search,desktop,35.05
+7984,2016-11-06,GGOE00123,Bags,Paid Search,mobile,89.84
+8040,2016-12-06,GGOE00216,Lifestyle,Organic Search,desktop,18.59
+8185,2017-01-12,GGOE00163,Office,Referral,desktop,15.49
+8190,2016-12-30,GGOE00212,Lifestyle,Organic Search,desktop,73.39
+8257,2017-01-06,GGOE00006,Apparel,Direct,desktop,12.25
+8271,2016-11-19,GGOE00159,Office,Organic Search,desktop,6.11
+8284,2016-12-24,GGOE00006,Apparel,Paid Search,desktop,12.25
+8290,2016-12-30,GGOE00218,Lifestyle,Paid Search,desktop,80.37
+8334,2016-11-21,GGOE00120,Bags,Referral,desktop,79.13
+8362,2016-12-03,GGOE00088,Drinkware,Organic Search,desktop,15.27
+8427,2016-11-25,GGOE00144,Office,Referral,desktop,23.15
+8483,2017-01-19,GGOE00114,Bags,Paid Search,desktop,92.83
+8591,2017-01-21,GGOE00119,Bags,Direct,desktop,11.57
+8631,2016-11-27,GGOE00259,Electronics Accessories,Referral,desktop,35.05
+8704,2017-01-07,GGOE00117,Bags,Referral,desktop,56.08
+8750,2016-12-05,GGOE00221,Lifestyle,Direct,desktop,60.38
+8758,2016-11-02,GGOE00061,Drinkware,Direct,desktop,20.95
+8769,2017-01-21,GGOE00146,Office,Organic Search,desktop,11.32
+8800,2016-12-02,GGOE00356,Nest,Paid Search,desktop,216.47
+8852,2016-11-06,GGOE00211,Lifestyle,Organic Search,desktop,59.38
+8946,2016-11-19,GGOE00342,Nest,Direct,desktop,297.84
+8953,2016-12-21,GGOE00047,Apparel,Referral,desktop,37.97
+9145,2017-01-10,GGOE00135,Bags,Organic Search,desktop,117.84
+9565,2016-12-26,GGOE00333,Nest,Organic Search,desktop,241.28
+9570,2016-11-11,GGOE00174,Office,Referral,desktop,10.88
+9746,2017-01-13,GGOE00113,Bags,Organic Search,desktop,10.57
+9865,2016-11-16,GGOE00235,Electronics Accessories,Direct,desktop,12.02
+9984,2017-01-20,GGOE00103,Bags,Referral,desktop,106.01
+10073,2017-01-29,GGOE00178,Office,Direct,desktop,3.72
+10138,2016-12-25,GGOE00161,Office,Organic Search,desktop,21.16
+10322,2016-12-21,GGOE00281,Electronics Accessories,Organic Search,desktop,24.79
+10347,2016-11-28,GGOE00166,Office,Direct,desktop,16.82
+10363,2016-12-28,GGOE00096,Drinkware,Paid Search,desktop,5.63
+10366,2017-01-04,GGOE00151,Office,Direct,desktop,17.24
+10382,2016-12-20,GGOE00256,Electronics Accessories,Organic Search,desktop,27.32
+10433,2016-12-13,GGOE00256,Electronics Accessories,Organic Search,desktop,27.32
+10479,2017-01-20,GGOE00319,Headgear,Affiliates,desktop,27.24
+10499,2017-01-30,GGOE00258,Electronics Accessories,Direct,desktop,6.26
+10538,2016-11-13,GGOE00078,Drinkware,Direct,desktop,19.24
+11223,2016-11-02,GGOE00209,Lifestyle,Organic Search,desktop,34.08
+11267,2016-11-24,GGOE00047,Apparel,Organic Search,desktop,37.97
+11308,2016-11-27,GGOE00282,Electronics Accessories,Organic Search,desktop,34.81
+11409,2016-12-14,GGOE00073,Drinkware,Direct,desktop,21.56
+11466,2016-12-24,GGOE00020,Apparel,Direct,desktop,22.33
+11483,2016-12-20,GGOE00242,Electronics Accessories,Organic Search,desktop,7.25
+11577,2016-11-10,GGOE00036,Apparel,Direct,desktop,29.74
+11589,2016-12-02,GGOE00001,Apparel,Referral,desktop,55.07
+11680,2016-11-02,GGOE00281,Electronics Accessories,Organic Search,desktop,24.79
+11728,2016-11-08,GGOE00282,Electronics Accessories,Organic Search,desktop,34.81
+11814,2017-01-06,GGOE00357,Nest,Referral,desktop,115.47
+11822,2016-11-02,GGOE00081,Drinkware,Direct,desktop,28.2
+11834,2017-01-15,GGOE00027,Apparel,Direct,tablet,56.02
+11884,2017-01-26,GGOE00303,Headgear,Social,desktop,18.21
+11927,2017-01-29,GGOE00037,Apparel,Organic Search,desktop,12.18
+11942,2016-11-15,GGOE00180,Lifestyle,Organic Search,desktop,79.97
+11950,2017-01-22,GGOE00328,Headgear,Organic Search,desktop,20.05
+12131,2017-01-12,GGOE00142,Bags,Paid Search,desktop,106.6
+12187,2017-01-04,GGOE00324,Headgear,Referral,desktop,34.67
+12244,2017-01-15,GGOE00123,Bags,Organic Search,desktop,89.84
+12416,2016-12-30,GGOE00141,Bags,Direct,desktop,56.93
+12545,2016-12-07,GGOE00084,Drinkware,Social,desktop,27.1
+12627,2016-12-13,GGOE00233,Electronics Accessories,Direct,desktop,4.12
+12743,2016-11-21,GGOE00272,Electronics Accessories,Referral,desktop,18.77
+12753,2016-12-06,GGOE00295,Headgear,Paid Search,desktop,28.98
+12995,2016-11-08,GGOE00175,Office,Referral,desktop,19.34
+13030,2017-01-06,GGOE00213,Lifestyle,Organic Search,desktop,33.73
+13099,2016-11-24,GGOE00282,Electronics Accessories,Paid Search,desktop,34.81
+13340,2016-11-11,GGOE00192,Lifestyle,Direct,desktop,21.61
+13341,2016-12-13,GGOE00179,Lifestyle,Direct,desktop,73.77
+13343,2016-11-17,GGOE00109,Bags,Organic Search,desktop,94.18
+13891,2017-01-10,GGOE00286,Headgear,Referral,desktop,32.21
+14032,2016-12-03,GGOE00235,Electronics Accessories,Organic Search,desktop,12.02
+14037,2016-11-19,GGOE00112,Bags,Organic Search,desktop,112.68
+14133,2016-12-27,GGOE00276,Electronics Accessories,Organic Search,desktop,35.61
+14203,2016-12-26,GGOE00288,Headgear,Organic Search,desktop,12.98
+14334,2017-01-15,GGOE00201,Lifestyle,Organic Search,desktop,23.68
+14390,2017-01-04,GGOE00159,Office,Organic Search,desktop,6.11
+14801,2016-12-04,GGOE00195,Lifestyle,Direct,desktop,33.47
+14906,2017-01-19,GGOE00027,Apparel,Referral,desktop,56.02
+14932,2016-11-20,GGOE00277,Electronics Accessories,Organic Search,desktop,37.68
+14935,2016-12-16,GGOE00100,Bags,Organic Search,tablet,82.35
+14952,2017-01-23,GGOE00116,Bags,Affiliates,desktop,25.04
+15029,2016-11-19,GGOE00229,Lifestyle,Direct,mobile,67.21
+15103,2017-01-01,GGOE00037,Apparel,Referral,desktop,12.18
+15216,2017-01-20,GGOE00129,Bags,Organic Search,mobile,114.29
+15249,2016-12-09,GGOE00353,Nest,Organic Search,desktop,264.12
+15364,2017-01-16,GGOE00164,Office,Social,desktop,12.5
+15475,2016-11-02,GGOE00125,Bags,Organic Search,desktop,31.84
+15547,2016-12-23,GGOE00271,Electronics Accessories,Organic Search,desktop,40.12
+15563,2016-12-11,GGOE00191,Lifestyle,Paid Search,desktop,56.41
+15660,2016-12-17,GGOE00254,Electronics Accessories,Organic Search,desktop,6.42
+15722,2016-12-18,GGOE00106,Bags,Referral,desktop,85.21
+15803,2017-01-13,GGOE00018,Apparel,Organic Search,desktop,41.86
+15888,2016-12-27,GGOE00180,Lifestyle,Organic Search,mobile,79.97
+15998,2016-12-28,GGOE00251,Electronics Accessories,Referral,desktop,13.39
+16286,2016-12-17,GGOE00130,Bags,Organic Search,desktop,73.07
+16401,2016-12-08,GGOE00064,Drinkware,Referral,tablet,16.01
+16444,2016-12-26,GGOE00187,Lifestyle,Organic Search,desktop,28.38
+16472,2016-12-22,GGOE00123,Bags,Direct,desktop,89.84
+16482,2016-12-14,GGOE00196,Lifestyle,Organic Search,desktop,84.94
+16545,2016-11-05,GGOE00304,Headgear,Referral,desktop,19.33
+16600,2016-11-19,GGOE00146,Office,Direct,desktop,11.32
+16795,2016-12-04,GGOE00228,Lifestyle,Direct,desktop,34.83
+16835,2017-01-11,GGOE00097,Bags,Organic Search,desktop,13.34
+16955,2016-11-19,GGOE00090,Drinkware,Direct,desktop,5.95
+16998,2016-12-07,GGOE00351,Nest,Referral,desktop,79.78
+17028,2016-12-28,GGOE00211,Lifestyle,Organic Search,tablet,59.38
+17054,2016-11-18,GGOE00102,Bags,Organic Search,desktop,67.61
+17088,2016-11-28,GGOE00289,Headgear,Direct,desktop,29.59
+17129,2017-01-09,GGOE00163,Office,Direct,desktop,15.49
+17254,2017-01-10,GGOE00154,Office,Organic Search,desktop,24.32
+17257,2016-11-22,GGOE00095,Drinkware,Referral,mobile,23.78
+17327,2016-12-23,GGOE00198,Lifestyle,Referral,desktop,74.55
+17529,2017-01-16,GGOE00040,Apparel,Organic Search,tablet,24.84
+17591,2016-11-26,GGOE00235,Electronics Accessories,Paid Search,desktop,12.02
+17656,2016-11-25,GGOE00311,Headgear,Organic Search,desktop,18.3
+17749,2017-01-23,GGOE00109,Bags,Social,desktop,94.18
+17765,2016-12-17,GGOE00263,Electronics Accessories,Organic Search,desktop,6.41
+17788,2016-11-05,GGOE00339,Nest,Direct,desktop,228.94
+17830,2016-11-24,GGOE00196,Lifestyle,Organic Search,desktop,84.94
+17838,2016-11-01,GGOE00325,Headgear,Organic Search,tablet,11.15
+17896,2016-12-31,GGOE00210,Lifestyle,Referral,mobile,17.24
+18085,2017-01-20,GGOE00262,Electronics Accessories,Referral,desktop,8.49
+18199,2016-12-13,GGOE00006,Apparel,Referral,desktop,12.25
+18328,2016-12-27,GGOE00005,Apparel,Organic Search,desktop,53.93
+18390,2016-12-21,GGOE00156,Office,Referral,mobile,10.56
+18421,2016-11-24,GGOE00227,Lifestyle,Referral,desktop,73.89
+18432,2017-01-21,GGOE00294,Headgear,Organic Search,desktop,30.76
+18558,2016-12-15,GGOE00180,Lifestyle,Direct,desktop,79.97
+18644,2016-12-15,GGOE00119,Bags,Organic Search,desktop,11.57
+18731,2016-12-21,GGOE00075,Drinkware,Organic Search,desktop,26.13
+18740,2017-01-20,GGOE00235,Electronics Accessories,Direct,desktop,12.02
+18757,2016-12-30,GGOE00237,Electronics Accessories,Referral,desktop,42.68
+18867,2016-12-20,GGOE00099,Bags,Organic Search,desktop,116.39
+18870,2016-11-30,GGOE00274,Electronics Accessories,Direct,desktop,7.07
+18871,2017-01-23,GGOE00151,Office,Organic Search,desktop,17.24
+18877,2016-11-23,GGOE00346,Nest,Referral,desktop,147.53
+18929,2016-12-12,GGOE00358,Nest,Organic Search,desktop,180.73
+19000,2016-12-01,GGOE00282,Electronics Accessories,Organic Search,desktop,34.81
+19068,2016-11-10,GGOE00285,Headgear,Organic Search,desktop,28.2
+19071,2016-11-08,GGOE00054,Drinkware,Paid Search,desktop,13.08
+19090,2017-01-09,GGOE00123,Bags,Referral,desktop,89.84
+19155,2016-11-21,GGOE00061,Drinkware,Referral,desktop,20.95
+19194,2016-12-23,GGOE00110,Bags,Referral,desktop,110.01
+19260,2016-12-17,GGOE00009,Apparel,Paid Search,tablet,34.46
+19291,2016-12-31,GGOE00357,Nest,Direct,desktop,115.47
+19302,2016-11-03,GGOE00016,Apparel,Direct,desktop,59.78
+19405,2017-01-30,GGOE00225,Lifestyle,Organic Search,desktop,59.82
+19528,2016-11-21,GGOE00340,Nest,Paid Search,desktop,162.75
+19889,2016-12-04,GGOE00349,Nest,Paid Search,desktop,57.26
+19897,2016-11-17,GGOE00046,Apparel,Direct,desktop,16.39
+19995,2017-01-28,GGOE00113,Bags,Organic Search,desktop,10.57
+20087,2016-11-17,GGOE00288,Headgear,Organic Search,desktop,12.98
+20127,2016-11-19,GGOE00194,Lifestyle,Paid Search,mobile,9.73
+20421,2016-11-06,GGOE00088,Drinkware,Direct,desktop,15.27
+20433,2016-12-19,GGOE00056,Drinkware,Organic Search,desktop,25.41
+20453,2016-12-05,GGOE00074,Drinkware,Direct,desktop,8.29
+20456,2016-11-04,GGOE00161,Office,Referral,desktop,21.16
+20495,2016-12-15,GGOE00274,Electronics Accessories,Direct,desktop,7.07
+20579,2016-12-07,GGOE00287,Headgear,Paid Search,desktop,11.4
+20641,2016-12-20,GGOE00154,Office,Organic Search,desktop,24.32
+20664,2017-01-29,GGOE00206,Lifestyle,Referral,desktop,78.03
+20666,2017-01-09,GGOE00142,Bags,Referral,desktop,106.6
+20695,2016-11-12,GGOE00288,Headgear,Direct,desktop,12.98
+20910,2017-01-23,GGOE00230,Lifestyle,Direct,desktop,79.12
+20947,2016-11-01,GGOE00130,Bags,Direct,desktop,73.07
+20951,2017-01-21,GGOE00196,Lifestyle,Referral,desktop,84.94
+20986,2016-12-11,GGOE00153,Office,Organic Search,desktop,16.11
+21015,2017-01-27,GGOE00134,Bags,Referral,desktop,58.89
+21023,2016-11-05,GGOE00120,Bags,Organic Search,desktop,79.13
+21029,2017-01-08,GGOE00016,Apparel,Organic Search,desktop,59.78
+21035,2017-01-16,GGOE00062,Drinkware,Referral,desktop,21.91
+21069,2016-12-07,GGOE00183,Lifestyle,Organic Search,desktop,11.83
+21310,2016-12-14,GGOE00214,Lifestyle,Direct,desktop,78.75
+21335,2016-12-29,GGOE00255,Electronics Accessories,Organic Search,desktop,34.61
+21337,2016-12-26,GGOE00053,Apparel,Organic Search,desktop,30.61
+21401,2017-01-02,GGOE00124,Bags,Organic Search,desktop,34.91
+21406,2016-11-15,GGOE00183,Lifestyle,Organic Search,desktop,11.83
+21555,2016-12-20,GGOE00048,Apparel,Affiliates,desktop,36.37
+21580,2016-12-20,GGOE00282,Electronics Accessories,Direct,desktop,34.81
+21786,2016-12-15,GGOE00211,Lifestyle,Direct,desktop,59.38
+21988,2016-11-22,GGOE00235,Electronics Accessories,Organic Search,desktop,12.02
+22072,2016-12-09,GGOE00160,Office,Direct,desktop,22.97
+22099,2017-01-07,GGOE00246,Electronics Accessories,Organic Search,desktop,37.88
+22305,2016-11-05,GGOE00322,Headgear,Referral,desktop,11.33
+22375,2017-01-18,GGOE00312,Headgear,Organic Search,desktop,30.43
+22401,2016-12-04,GGOE00306,Headgear,Direct,desktop,30.8
+22483,2016-12-15,GGOE00295,Headgear,Social,desktop,28.98
+22485,2016-12-27,GGOE00026,Apparel,Direct,desktop,34.38
+22550,2017-01-15,GGOE00104,Bags,Direct,desktop,47.86
+22660,2016-12-02,GGOE00219,Lifestyle,Organic Search,desktop,24.18
+22672,2017-01-05,GGOE00265,Electronics Accessories,Direct,desktop,14.31
+22714,2017-01-07,GGOE00357,Nest,Organic Search,desktop,115.47
+22813,2016-11-28,GGOE00147,Office,Organic Search,desktop,13.47
+23101,2017-01-19,GGOE00148,Office,Social,desktop,23.82
+23104,2017-01-11,GGOE00112,Bags,Organic Search,desktop,112.68
+23158,2016-12-07,GGOE00166,Office,Organic Search,desktop,16.82
+23466,2016-11-07,GGOE00111,Bags,Organic Search,desktop,26.62
+23662,2016-12-20,GGOE00078,Drinkware,Organic Search,desktop,19.24
+23687,2017-01-19,GGOE00162,Office,Organic Search,desktop,3.7
+23739,2016-12-01,GGOE00176,Office,Organic Search,desktop,20.57
+23841,2016-12-15,GGOE00157,Office,Paid Search,desktop,5.87
+23870,2017-01-13,GGOE00040,Apparel,Direct,desktop,24.84
+23971,2016-12-07,GGOE00205,Lifestyle,Organic Search,desktop,86.73
+24028,2016-12-03,GGOE00289,Headgear,Paid Search,desktop,29.59
+24052,2016-11-07,GGOE00001,Apparel,Organic Search,desktop,55.07
+24242,2016-12-04,GGOE00050,Apparel,Organic Search,desktop,29.34
+24309,2017-01-23,GGOE00313,Headgear,Organic Search,desktop,32.83
+24383,2016-12-23,GGOE00159,Office,Referral,desktop,6.11
+24496,2016-12-07,GGOE00019,Apparel,Organic Search,desktop,59.47
+24519,2016-11-21,GGOE00058,Drinkware,Direct,desktop,29.47
+24584,2016-12-27,GGOE00213,Lifestyle,Direct,desktop,33.73
+24647,2017-01-12,GGOE00164,Office,Organic Search,desktop,12.5
+24690,2016-12-14,GGOE00026,Apparel,Display,desktop,34.38
+24785,2016-12-25,GGOE00085,Drinkware,Organic Search,desktop,21.04
+24808,2016-11-23,GGOE00312,Headgear,Organic Search,desktop,30.43
+24809,2016-11-23,GGOE00140,Bags,Referral,desktop,73.87
+24871,2016-12-27,GGOE00141,Bags,Organic Search,desktop,56.93
+24977,2016-11-29,GGOE00182,Lifestyle,Paid Search,mobile,83.08
+24989,2016-11-23,GGOE00057,Drinkware,Direct,desktop,14.49
+24992,2016-12-14,GGOE00195,Lifestyle,Organic Search,tablet,33.47
+25126,2016-12-04,GGOE00022,Apparel,Direct,desktop,41.4
+25382,2016-12-23,GGOE00021,Apparel,Direct,desktop,19.69
+25404,2017-01-06,GGOE00158,Office,Referral,desktop,2.22
+25478,2016-12-10,GGOE00145,Office,Direct,tablet,2.65
+25840,2016-12-03,GGOE00242,Electronics Accessories,Organic Search,desktop,7.25
+25989,2016-11-30,GGOE00147,Office,Organic Search,desktop,13.47
+26030,2017-01-28,GGOE00143,Office,Organic Search,desktop,10.88
+26418,2016-11-28,GGOE00164,Office,Organic Search,desktop,12.5
+26427,2016-12-03,GGOE00176,Office,Organic Search,desktop,20.57
+26469,2016-12-13,GGOE00253,Electronics Accessories,Referral,desktop,22.21
+26474,2016-11-02,GGOE00179,Lifestyle,Organic Search,desktop,73.77
+26558,2016-12-27,GGOE00300,Headgear,Paid Search,desktop,28.46
+26670,2016-12-05,GGOE00199,Lifestyle,Paid Search,desktop,61.96
+26716,2016-11-16,GGOE00247,Electronics Accessories,Referral,desktop,18.83
+26723,2017-01-23,GGOE00173,Office,Organic Search,tablet,2.48
+26747,2017-01-14,GGOE00227,Lifestyle,Referral,desktop,73.89
+27335,2016-11-09,GGOE00164,Office,Referral,desktop,12.5
+27413,2016-11-12,GGOE00275,Electronics Accessories,Organic Search,desktop,33.55
+27559,2016-11-12,GGOE00084,Drinkware,Social,tablet,27.1
+27565,2016-12-11,GGOE00060,Drinkware,Organic Search,desktop,20.13
+27583,2016-12-22,GGOE00279,Electronics Accessories,Direct,desktop,18.57
+27624,2016-11-24,GGOE00295,Headgear,Organic Search,desktop,28.98
+27694,2016-12-19,GGOE00045,Apparel,Referral,desktop,47.61
+27760,2017-01-27,GGOE00184,Lifestyle,Organic Search,desktop,10.48
+27901,2017-01-17,GGOE00105,Bags,Organic Search,desktop,74.93
+27949,2016-11-03,GGOE00344,Nest,Organic Search,desktop,278.08
+27991,2016-12-15,GGOE00075,Drinkware,Organic Search,desktop,26.13
+28029,2016-11-07,GGOE00250,Electronics Accessories,Direct,desktop,12.03
+28168,2016-11-27,GGOE00070,Drinkware,Organic Search,desktop,21.79
+28397,2016-12-31,GGOE00032,Apparel,Referral,desktop,12.57
+28432,2017-01-07,GGOE00220,Lifestyle,Referral,desktop,55.04
+28526,2016-11-03,GGOE00199,Lifestyle,Direct,desktop,61.96
+28618,2016-11-07,GGOE00227,Lifestyle,Referral,desktop,73.89
+28712,2016-11-15,GGOE00333,Nest,Direct,desktop,241.28
+28747,2017-01-07,GGOE00028,Apparel,Direct,desktop,42.2
+28748,2016-12-29,GGOE00186,Lifestyle,Paid Search,desktop,28.73
+28775,2016-11-10,GGOE00164,Office,Direct,desktop,12.5
+28873,2016-12-12,GGOE00348,Nest,Organic Search,desktop,80.23
+28917,2017-01-03,GGOE00353,Nest,Organic Search,desktop,264.12
+28937,2016-11-09,GGOE00112,Bags,Organic Search,desktop,112.68
+29047,2017-01-30,GGOE00211,Lifestyle,Organic Search,desktop,59.38
+29088,2016-12-16,GGOE00187,Lifestyle,Referral,desktop,28.38
+29147,2016-12-03,GGOE00160,Office,Direct,desktop,22.97
+29176,2016-12-28,GGOE00052,Apparel,Organic Search,desktop,14.84
+29266,2016-11-29,GGOE00215,Lifestyle,Organic Search,desktop,73.36
+29295,2017-01-04,GGOE00272,Electronics Accessories,Organic Search,desktop,18.77
+29339,2017-01-02,GGOE00054,Drinkware,Social,desktop,13.08
+29433,2017-01-19,GGOE00098,Bags,Organic Search,desktop,23.52
+29564,2016-11-16,GGOE00108,Bags,Direct,desktop,67.1
+29571,2017-01-11,GGOE00178,Office,Referral,desktop,3.72
+29650,2016-11-24,GGOE00344,Nest,Organic Search,desktop,278.08
+29829,2016-11-04,GGOE00186,Lifestyle,Organic Search,desktop,28.73
+29991,2016-12-11,GGOE00282,Electronics Accessories,Direct,mobile,34.81
+30084,2016-12-16,GGOE00100,Bags,Organic Search,desktop,82.35
+30152,2016-11-09,GGOE00262,Electronics Accessories,Referral,desktop,8.49
+30153,2017-01-12,GGOE00313,Headgear,Referral,desktop,32.83
+30199,2017-01-11,GGOE00109,Bags,Referral,desktop,94.18
+30243,2016-12-21,GGOE00090,Drinkware,Direct,desktop,5.95
+30441,2016-12-07,GGOE00357,Nest,Organic Search,desktop,115.47
+30442,2016-12-08,GGOE00088,Drinkware,Organic Search,desktop,15.27
+30520,2016-12-27,GGOE00167,Office,Paid Search,desktop,8.36
+30590,2016-12-24,GGOE00028,Apparel,Referral,desktop,42.2
+30753,2016-12-01,GGOE00236,Electronics Accessories,Direct,desktop,26.68
+30765,2016-12-29,GGOE00003,Apparel,Organic Search,desktop,22.81
+30813,2016-12-21,GGOE00286,Headgear,Organic Search,desktop,32.21
+31025,2017-01-04,GGOE00119,Bags,Direct,desktop,11.57
+31103,2017-01-01,GGOE00309,Headgear,Organic Search,desktop,22.8
+31337,2017-01-15,GGOE00361,Nest,Direct,desktop,206.13
+31386,2016-11-21,GGOE00141,Bags,Organic Search,desktop,56.93
+31490,2016-11-14,GGOE00031,Apparel,Paid Search,desktop,23.88
+31638,2016-11-05,GGOE00075,Drinkware,Referral,desktop,26.13
+31646,2017-01-01,GGOE00196,Lifestyle,Paid Search,desktop,84.94
+31893,2017-01-01,GGOE00169,Office,Paid Search,desktop,12.18
+31942,2016-12-31,GGOE00258,Electronics Accessories,Direct,desktop,6.26
+32001,2016-11-03,GGOE00034,Apparel,Organic Search,desktop,45.22
+32051,2016-12-06,GGOE00057,Drinkware,Direct,desktop,14.49
+32055,2016-11-27,GGOE00156,Office,Organic Search,desktop,10.56
+32110,2017-01-26,GGOE00360,Nest,Referral,desktop,178.04
+32174,2017-01-25,GGOE00249,Electronics Accessories,Organic Search,mobile,25.66
+32340,2016-12-18,GGOE00176,Office,Organic Search,mobile,20.57
+32461,2016-11-18,GGOE00299,Headgear,Organic Search,desktop,28.51
+32480,2017-01-05,GGOE00187,Lifestyle,Organic Search,desktop,28.38
+32524,2016-11-27,GGOE00200,Lifestyle,Direct,desktop,58.08
+32575,2016-11-18,GGOE00252,Electronics Accessories,Paid Search,desktop,16.85
+32669,2017-01-10,GGOE00041,Apparel,Display,desktop,54.26
+32670,2017-01-25,GGOE00360,Nest,Referral,desktop,178.04
+32701,2016-11-09,GGOE00165,Office,Direct,desktop,15.27
+32717,2016-11-20,GGOE00164,Office,Referral,desktop,12.5
+32723,2016-11-09,GGOE00173,Office,Organic Search,tablet,2.48
+32747,2016-12-08,GGOE00118,Bags,Referral,desktop,99.68
+32785,2016-11-15,GGOE00359,Nest,Organic Search,desktop,119.74
+32858,2016-12-17,GGOE00033,Apparel,Direct,desktop,21.24
+32884,2017-01-29,GGOE00084,Drinkware,Social,desktop,27.1
+32894,2017-01-25,GGOE00015,Apparel,Organic Search,desktop,38.57
+32898,2016-12-27,GGOE00278,Electronics Accessories,Direct,desktop,31.32
+32923,2016-11-05,GGOE00093,Drinkware,Referral,desktop,18.69
+32941,2016-12-02,GGOE00117,Bags,Direct,desktop,56.08
+32971,2016-12-29,GGOE00218,Lifestyle,Direct,desktop,80.37
+33188,2016-12-22,GGOE00244,Electronics Accessories,Direct,desktop,8.62
+33197,2016-11-21,GGOE00040,Apparel,Organic Search,desktop,24.84
+33379,2017-01-19,GGOE00159,Office,Organic Search,desktop,6.11
+33434,2016-11-06,GGOE00234,Electronics Accessories,Organic Search,tablet,30.33
+33462,2016-12-11,GGOE00295,Headgear,Direct,desktop,28.98
+33503,2016-11-10,GGOE00330,Headgear,Organic Search,desktop,13.15
+33595,2016-11-02,GGOE00321,Headgear,Direct,desktop,32.86
+33669,2016-11-13,GGOE00178,Office,Organic Search,desktop,3.72
+33683,2017-01-01,GGOE00131,Bags,Direct,desktop,47.41
+33898,2016-12-09,GGOE00053,Apparel,Organic Search,tablet,30.61
+34014,2016-12-02,GGOE00356,Nest,Direct,desktop,216.47
+34081,2017-01-31,GGOE00361,Nest,Social,desktop,206.13
+34135,2016-12-21,GGOE00067,Drinkware,Direct,desktop,7.42
+34139,2017-01-23,GGOE00245,Electronics Accessories,Direct,desktop,30.82
+34144,2016-12-29,GGOE00015,Apparel,Referral,desktop,38.57
+34334,2016-12-02,GGOE00244,Electronics Accessories,Referral,desktop,8.62
+34527,2017-01-13,GGOE00287,Headgear,Organic Search,tablet,11.4
+34624,2016-12-22,GGOE00169,Office,Direct,desktop,12.18
+34736,2016-12-06,GGOE00165,Office,Organic Search,desktop,15.27
+34777,2016-11-10,GGOE00292,Headgear,Organic Search,desktop,34.91
+34914,2016-11-30,GGOE00097,Bags,Direct,desktop,13.34
+35130,2016-11-14,GGOE00241,Electronics Accessories,Organic Search,desktop,30.6
+35164,2016-12-07,GGOE00312,Headgear,Direct,desktop,30.43
+35169,2017-01-06,GGOE00047,Apparel,Organic Search,desktop,37.97
+35211,2017-01-25,GGOE00130,Bags,Referral,desktop,73.07
+35283,2017-01-24,GGOE00004,Apparel,Referral,tablet,26.41
+35490,2017-01-29,GGOE00347,Nest,Direct,desktop,105.79
+35569,2017-01-15,GGOE00271,Electronics Accessories,Direct,desktop,40.12
+35627,2017-01-04,GGOE00070,Drinkware,Direct,desktop,21.79
+35762,2017-01-21,GGOE00281,Electronics Accessories,Direct,desktop,24.79
+35763,2016-11-20,GGOE00123,Bags,Referral,desktop,89.84
+35854,2016-11-28,GGOE00168,Office,Organic Search,mobile,24.07
+36055,2017-01-25,GGOE00246,Electronics Accessories,Direct,desktop,37.88
+36077,2016-12-23,GGOE00226,Lifestyle,Organic Search,mobile,75.56
+36086,2016-12-17,GGOE00354,Nest,Paid Search,desktop,170.06
+36089,2017-01-25,GGOE00072,Drinkware,Paid Search,desktop,26.85
+36226,2016-11-14,GGOE00095,Drinkware,Organic Search,tablet,23.78
+36334,2016-12-29,GGOE00200,Lifestyle,Social,desktop,58.08
+36388,2017-01-16,GGOE00028,Apparel,Display,desktop,42.2
+36435,2016-11-26,GGOE00260,Electronics Accessories,Direct,desktop,8.51
+36493,2016-11-24,GGOE00045,Apparel,Referral,desktop,47.61
+36526,2016-12-21,GGOE00142,Bags,Organic Search,desktop,106.6
+36585,2016-11-24,GGOE00250,Electronics Accessories,Direct,desktop,12.03
+36753,2017-01-31,GGOE00219,Lifestyle,Direct,desktop,24.18
+36765,2016-11-27,GGOE00114,Bags,Referral,desktop,92.83
+36854,2016-11-30,GGOE00243,Electronics Accessories,Social,desktop,18.98
+36910,2016-11-22,GGOE00209,Lifestyle,Organic Search,desktop,34.08
+36986,2016-12-14,GGOE00252,Electronics Accessories,Referral,desktop,16.85
+36990,2017-01-20,GGOE00087,Drinkware,Direct,desktop,14.41
+36992,2016-11-02,GGOE00260,Electronics Accessories,Direct,desktop,8.51
+37056,2016-11-09,GGOE00277,Electronics Accessories,Paid Search,desktop,37.68
+37076,2016-11-15,GGOE00302,Headgear,Organic Search,desktop,20.01
+37104,2017-01-21,GGOE00328,Headgear,Direct,desktop,20.05
+37110,2016-12-04,GGOE00043,Apparel,Referral,desktop,52.66
+37166,2017-01-02,GGOE00168,Office,Organic Search,desktop,24.07
+37181,2016-11-25,GGOE00226,Lifestyle,Organic Search,desktop,75.56
+37245,2017-01-06,GGOE00159,Office,Paid Search,desktop,6.11
+37252,2016-12-05,GGOE00344,Nest,Direct,tablet,278.08
+37262,2016-12-06,GGOE00094,Drinkware,Direct,desktop,13.05
+37266,2017-01-22,GGOE00224,Lifestyle,Referral,desktop,62.22
+37372,2016-11-22,GGOE00115,Bags,Organic Search,desktop,99.16
+37377,2016-11-25,GGOE00154,Office,Direct,tablet,24.32
+37386,2016-12-06,GGOE00070,Drinkware,Direct,mobile,21.79
+37406,2017-01-29,GGOE00314,Headgear,Referral,desktop,18.46
+37575,2016-11-05,GGOE00271,Electronics Accessories,Organic Search,desktop,40.12
+37598,2016-11-25,GGOE00345,Nest,Affiliates,desktop,110.64
+37648,2016-11-03,GGOE00272,Electronics Accessories,Organic Search,desktop,18.77
+38097,2017-01-20,GGOE00336,Nest,Referral,desktop,57.14
+38146,2017-01-21,GGOE00003,Apparel,Organic Search,desktop,22.81
+38157,2016-11-21,GGOE00314,Headgear,Referral,desktop,18.46
+38192,2016-12-20,GGOE00212,Lifestyle,Organic Search,desktop,73.39
+38239,2016-11-01,GGOE00224,Lifestyle,Referral,desktop,62.22
+38475,2017-01-03,GGOE00208,Lifestyle,Social,desktop,35.77
+38616,2016-11-27,GGOE00112,Bags,Direct,desktop,112.68
+38658,2017-01-14,GGOE00181,Lifestyle,Direct,desktop,50.91
+38680,2017-01-06,GGOE00019,Apparel,Organic Search,desktop,59.47
+38715,2016-12-29,GGOE00309,Headgear,Organic Search,desktop,22.8
+38722,2016-12-07,GGOE00060,Drinkware,Organic Search,desktop,20.13
+38739,2016-11-13,GGOE00068,Drinkware,Social,desktop,29.2
+38869,2016-11-28,GGOE00282,Electronics Accessories,Referral,desktop,34.81
+38870,2017-01-02,GGOE00133,Bags,Organic Search,desktop,114.72
+38880,2016-12-06,GGOE00283,Headgear,Direct,desktop,15.19
+39133,2016-12-06,GGOE00234,Electronics Accessories,Direct,desktop,30.33
+39173,2016-12-14,GGOE00111,Bags,Organic Search,desktop,26.62
+39441,2017-01-01,GGOE00270,Electronics Accessories,Direct,desktop,21.26
+39496,2016-12-15,GGOE00127,Bags,Paid Search,desktop,29.73
+39559,2016-11-18,GGOE00277,Electronics Accessories,Referral,desktop,37.68
+39591,2017-01-19,GGOE00004,Apparel,Paid Search,desktop,26.41
+39669,2016-11-22,GGOE00075,Drinkware,Organic Search,desktop,26.13
+39732,2017-01-09,GGOE00019,Apparel,Paid Search,mobile,59.47
+39800,2017-01-16,GGOE00132,Bags,Direct,desktop,39.87
+39809,2017-01-18,GGOE00341,Nest,Affiliates,desktop,63.19
+39825,2017-01-04,GGOE00161,Office,Referral,mobile,21.16
+39829,2016-12-14,GGOE00110,Bags,Direct,desktop,110.01
+40003,2016-12-08,GGOE00008,Apparel,Referral,desktop,50.26
+40089,2017-01-31,GGOE00097,Bags,Referral,desktop,13.34
+40095,2016-12-01,GGOE00237,Electronics Accessories,Organic Search,desktop,42.68
+40258,2016-12-15,GGOE00014,Apparel,Referral,desktop,36.22
+40430,2016-11-10,GGOE00344,Nest,Referral,desktop,278.08
+40636,2016-12-31,GGOE00299,Headgear,Organic Search,desktop,28.51
+40671,2016-12-11,GGOE00043,Apparel,Organic Search,desktop,52.66
+40815,2017-01-17,GGOE00136,Bags,Organic Search,desktop,66.71
+40930,2017-01-19,GGOE00125,Bags,Direct,desktop,31.84
+40932,2017-01-14,GGOE00274,Electronics Accessories,Referral,desktop,7.07
+41041,2016-11-02,GGOE00223,Lifestyle,Direct,desktop,15.89
+41183,2017-01-11,GGOE00116,Bags,Organic Search,desktop,25.04
+41229,2017-01-25,GGOE00230,Lifestyle,Display,desktop,79.12
+41244,2016-11-17,GGOE00199,Lifestyle,Referral,desktop,61.96
+41245,2016-11-16,GGOE00222,Lifestyle,Organic Search,desktop,57.97
+41269,2017-01-01,GGOE00313,Headgear,Direct,desktop,32.83
+41320,2017-01-31,GGOE00070,Drinkware,Direct,desktop,21.79
+41331,2016-11-21,GGOE00028,Apparel,Referral,desktop,42.2
+41345,2016-12-02,GGOE00281,Electronics Accessories,Organic Search,desktop,24.79
+41375,2016-11-09,GGOE00191,Lifestyle,Organic Search,desktop,56.41
+41397,2016-12-04,GGOE00055,Drinkware,Referral,tablet,8.75
+41456,2016-12-06,GGOE00146,Office,Paid Search,desktop,11.32
+41464,2016-12-19,GGOE00280,Electronics Accessories,Organic Search,desktop,5.7
+41527,2017-01-19,GGOE00077,Drinkware,Direct,desktop,27.6
+41557,2016-12-05,GGOE00313,Headgear,Direct,desktop,32.83
+41559,2016-12-29,GGOE00061,Drinkware,Referral,desktop,20.95
+41753,2016-11-06,GGOE00034,Apparel,Referral,desktop,45.22
+41799,2016-12-12,GGOE00255,Electronics Accessories,Direct,desktop,34.61
+41850,2016-12-12,GGOE00063,Drinkware,Organic Search,desktop,8.77
+41926,2017-01-30,GGOE00195,Lifestyle,Organic Search,mobile,33.47
+41970,2016-11-17,GGOE00066,Drinkware,Referral,desktop,15.06
+42065,2017-01-28,GGOE00137,Bags,Referral,desktop,67.33
+42068,2017-01-14,GGOE00195,Lifestyle,Referral,desktop,33.47
+42128,2016-12-19,GGOE00214,Lifestyle,Direct,desktop,78.75
+42184,2017-01-27,GGOE00307,Headgear,Organic Search,desktop,22.64
+42415,2016-11-25,GGOE00186,Lifestyle,Organic Search,desktop,28.73
+42506,2016-12-23,GGOE00357,Nest,Organic Search,desktop,115.47
+42591,2017-01-17,GGOE00281,Electronics Accessories,Direct,desktop,24.79
+42650,2017-01-24,GGOE00223,Lifestyle,Affiliates,desktop,15.89
+42656,2017-01-22,GGOE00336,Nest,Direct,desktop,57.14
+42735,2016-12-27,GGOE00085,Drinkware,Paid Search,desktop,21.04
+42768,2016-11-09,GGOE00328,Headgear,Direct,desktop,20.05
+42889,2016-12-31,GGOE00341,Nest,Referral,desktop,63.19
+42978,2016-11-16,GGOE00263,Electronics Accessories,Organic Search,desktop,6.41
+42979,2016-11-13,GGOE00097,Bags,Organic Search,mobile,13.34
+43007,2017-01-03,GGOE00237,Electronics Accessories,Organic Search,desktop,42.68
+43016,2016-11-18,GGOE00088,Drinkware,Paid Search,desktop,15.27
+43072,2016-11-11,GGOE00210,Lifestyle,Organic Search,desktop,17.24
+43314,2017-01-12,GGOE00001,Apparel,Social,desktop,55.07
+43341,2017-01-21,GGOE00002,Apparel,Social,desktop,49.23
+43425,2016-11-28,GGOE00318,Headgear,Direct,desktop,12.0
+43457,2016-12-26,GGOE00140,Bags,Direct,desktop,73.87
+43601,2016-11-30,GGOE00117,Bags,Direct,desktop,56.08
+43625,2016-12-19,GGOE00039,Apparel,Referral,desktop,19.41
+43672,2017-01-14,GGOE00195,Lifestyle,Social,mobile,33.47
+43812,2016-11-12,GGOE00003,Apparel,Paid Search,desktop,22.81
+43835,2016-12-01,GGOE00332,Nest,Organic Search,desktop,103.3
+43891,2016-12-19,GGOE00255,Electronics Accessories,Paid Search,desktop,34.61
+43931,2017-01-11,GGOE00256,Electronics Accessories,Organic Search,desktop,27.32
+43948,2017-01-15,GGOE00279,Electronics Accessories,Organic Search,desktop,18.57
+43974,2017-01-23,GGOE00351,Nest,Referral,desktop,79.78
+44004,2017-01-31,GGOE00028,Apparel,Organic Search,desktop,42.2
+44033,2017-01-13,GGOE00298,Headgear,Direct,desktop,12.98
+44076,2017-01-23,GGOE00158,Office,Direct,desktop,2.22
+44104,2016-11-13,GGOE00236,Electronics Accessories,Direct,desktop,26.68
+44149,2016-11-03,GGOE00174,Office,Organic Search,desktop,10.88
+44165,2016-12-28,GGOE00239,Electronics Accessories,Direct,desktop,13.62
+44186,2017-01-07,GGOE00117,Bags,Organic Search,desktop,56.08
+44198,2017-01-20,GGOE00283,Headgear,Referral,desktop,15.19
+44227,2017-01-19,GGOE00042,Apparel,Organic Search,desktop,36.47
+44309,2016-11-29,GGOE00124,Bags,Organic Search,desktop,34.91
+44355,2016-12-08,GGOE00265,Electronics Accessories,Paid Search,desktop,14.31
+44407,2017-01-09,GGOE00322,Headgear,Organic Search,desktop,11.33
+44425,2017-01-11,GGOE00210,Lifestyle,Direct,desktop,17.24
+44461,2017-01-02,GGOE00123,Bags,Organic Search,desktop,89.84
+44527,2017-01-05,GGOE00059,Drinkware,Organic Search,desktop,19.75
+44543,2017-01-02,GGOE00022,Apparel,Organic Search,desktop,41.4
+44615,2017-01-05,GGOE00280,Electronics Accessories,Organic Search,desktop,5.7
+44616,2016-11-17,GGOE00235,Electronics Accessories,Referral,desktop,12.02
+44667,2017-01-06,GGOE00072,Drinkware,Direct,desktop,26.85
+44685,2016-12-23,GGOE00064,Drinkware,Referral,desktop,16.01
+44707,2017-01-12,GGOE00047,Apparel,Organic Search,desktop,37.97
+44743,2017-01-16,GGOE00326,Headgear,Organic Search,desktop,12.77
+44935,2016-11-14,GGOE00035,Apparel,Referral,desktop,21.63
+44967,2016-12-03,GGOE00111,Bags,Organic Search,desktop,26.62
+45176,2016-12-09,GGOE00028,Apparel,Direct,desktop,42.2
+45234,2016-12-16,GGOE00272,Electronics Accessories,Organic Search,mobile,18.77
+45332,2016-12-27,GGOE00191,Lifestyle,Organic Search,desktop,56.41
+45394,2016-12-24,GGOE00180,Lifestyle,Referral,desktop,79.97
+45398,2016-11-18,GGOE00282,Electronics Accessories,Organic Search,desktop,34.81
+45488,2017-01-25,GGOE00318,Headgear,Organic Search,desktop,12.0
+45530,2016-12-06,GGOE00050,Apparel,Organic Search,desktop,29.34
+45577,2017-01-16,GGOE00211,Lifestyle,Referral,desktop,59.38
+45637,2016-11-30,GGOE00260,Electronics Accessories,Organic Search,mobile,8.51
+45642,2016-11-02,GGOE00087,Drinkware,Referral,tablet,14.41
+45687,2016-12-06,GGOE00101,Bags,Direct,desktop,57.1
+45767,2016-11-03,GGOE00014,Apparel,Organic Search,desktop,36.22
+45954,2016-12-21,GGOE00146,Office,Direct,desktop,11.32
+45961,2017-01-15,GGOE00139,Bags,Paid Search,desktop,91.7
+45977,2016-12-13,GGOE00228,Lifestyle,Organic Search,desktop,34.83
+46097,2016-12-13,GGOE00177,Office,Affiliates,desktop,18.52
+46220,2016-12-12,GGOE00113,Bags,Direct,desktop,10.57
+46267,2017-01-11,GGOE00266,Electronics Accessories,Referral,desktop,15.87
+46304,2017-01-09,GGOE00195,Lifestyle,Direct,desktop,33.47
+46349,2016-11-01,GGOE00098,Bags,Referral,desktop,23.52
+46407,2016-11-17,GGOE00148,Office,Paid Search,desktop,23.82
+46518,2017-01-24,GGOE00337,Nest,Organic Search,desktop,127.45
+46785,2016-12-31,GGOE00117,Bags,Organic Search,desktop,56.08
+46928,2017-01-14,GGOE00271,Electronics Accessories,Social,desktop,40.12
+46975,2017-01-23,GGOE00033,Apparel,Direct,desktop,21.24
+46988,2017-01-26,GGOE00220,Lifestyle,Paid Search,desktop,55.04
+47040,2017-01-19,GGOE00305,Headgear,Organic Search,desktop,8.9
+47166,2016-12-10,GGOE00019,Apparel,Social,desktop,59.47
+47255,2016-12-07,GGOE00341,Nest,Organic Search,desktop,63.19
+47358,2017-01-11,GGOE00125,Bags,Affiliates,desktop,31.84
+47530,2016-12-11,GGOE00235,Electronics Accessories,Direct,desktop,12.02
+47542,2016-12-24,GGOE00189,Lifestyle,Direct,desktop,54.5
+47572,2016-11-29,GGOE00224,Lifestyle,Referral,desktop,62.22
+47690,2016-12-03,GGOE00035,Apparel,Organic Search,desktop,21.63
+47708,2017-01-16,GGOE00294,Headgear,Referral,desktop,30.76
+47796,2016-12-30,GGOE00140,Bags,Organic Search,desktop,73.87
+47905,2016-12-11,GGOE00101,Bags,Organic Search,desktop,57.1
+47906,2017-01-08,GGOE00062,Drinkware,Referral,desktop,21.91
+47930,2017-01-15,GGOE00016,Apparel,Referral,desktop,59.78
+47948,2016-12-28,GGOE00111,Bags,Organic Search,desktop,26.62
+48007,2017-01-15,GGOE00215,Lifestyle,Organic Search,desktop,73.36
+48048,2016-12-19,GGOE00133,Bags,Organic Search,desktop,114.72
+48170,2016-12-17,GGOE00198,Lifestyle,Referral,desktop,74.55
+48296,2016-12-07,GGOE00167,Office,Social,desktop,8.36
+48332,2017-01-27,GGOE00283,Headgear,Organic Search,desktop,15.19
+48347,2016-12-04,GGOE00105,Bags,Direct,desktop,74.93
+48403,2016-12-03,GGOE00025,Apparel,Organic Search,desktop,36.71
+48467,2017-01-29,GGOE00058,Drinkware,Organic Search,desktop,29.47
+48529,2017-01-12,GGOE00254,Electronics Accessories,Direct,desktop,6.42
+48556,2016-11-21,GGOE00037,Apparel,Social,desktop,12.18
+48564,2017-01-22,GGOE00047,Apparel,Paid Search,desktop,37.97
+48640,2016-12-27,GGOE00061,Drinkware,Organic Search,desktop,20.95
+48686,2016-11-07,GGOE00296,Headgear,Organic Search,desktop,18.67
+48720,2017-01-22,GGOE00317,Headgear,Direct,desktop,34.81
+48725,2016-11-17,GGOE00139,Bags,Direct,desktop,91.7
+48781,2017-01-17,GGOE00198,Lifestyle,Direct,desktop,74.55
+48783,2016-11-26,GGOE00143,Office,Direct,mobile,10.88
+48805,2016-12-27,GGOE00127,Bags,Referral,desktop,29.73
+48924,2016-12-03,GGOE00257,Electronics Accessories,Referral,desktop,15.59
+49047,2017-01-07,GGOE00157,Office,Direct,desktop,5.87
+49089,2016-11-13,GGOE00098,Bags,Direct,desktop,23.52
+49124,2016-12-31,GGOE00098,Bags,Direct,tablet,23.52
+49132,2016-11-13,GGOE00123,Bags,Direct,desktop,89.84
+49170,2016-12-23,GGOE00015,Apparel,Direct,desktop,38.57
+49179,2016-11-02,GGOE00095,Drinkware,Referral,desktop,23.78
+49186,2016-11-27,GGOE00302,Headgear,Paid Search,desktop,20.01
+49205,2016-11-06,GGOE00063,Drinkware,Organic Search,desktop,8.77
+49277,2017-01-25,GGOE00092,Drinkware,Paid Search,desktop,16.69
+49414,2017-01-30,GGOE00319,Headgear,Referral,desktop,27.24
+49416,2017-01-20,GGOE00193,Lifestyle,Direct,desktop,63.59
+49464,2016-12-22,GGOE00361,Nest,Referral,desktop,206.13
+49493,2016-11-22,GGOE00249,Electronics Accessories,Organic Search,mobile,25.66
+49526,2017-01-13,GGOE00074,Drinkware,Paid Search,desktop,8.29
+49544,2016-12-17,GGOE00233,Electronics Accessories,Direct,desktop,4.12
+49549,2017-01-20,GGOE00298,Headgear,Organic Search,desktop,12.98
+49567,2017-01-11,GGOE00073,Drinkware,Referral,desktop,21.56
+49648,2017-01-30,GGOE00159,Office,Organic Search,tablet,6.11
+49654,2016-11-28,GGOE00225,Lifestyle,Referral,desktop,59.82
+49696,2016-11-21,GGOE00005,Apparel,Direct,mobile,53.93
+49749,2017-01-13,GGOE00047,Apparel,Direct,mobile,37.97
+49860,2017-01-05,GGOE00303,Headgear,Direct,desktop,18.21
+49962,2017-01-02,GGOE00189,Lifestyle,Referral,desktop,54.5
+50041,2016-12-13,GGOE00193,Lifestyle,Organic Search,mobile,63.59
+50092,2016-12-26,GGOE00103,Bags,Referral,desktop,106.01
+50104,2017-01-04,GGOE00117,Bags,Referral,desktop,56.08
+50165,2016-12-09,GGOE00327,Headgear,Direct,desktop,23.52
+50182,2016-11-15,GGOE00272,Electronics Accessories,Affiliates,desktop,18.77
+50274,2016-11-24,GGOE00324,Headgear,Direct,desktop,34.67
+50310,2016-11-21,GGOE00233,Electronics Accessories,Paid Search,desktop,4.12
+50339,2016-11-01,GGOE00071,Drinkware,Organic Search,desktop,12.51
+50492,2016-11-14,GGOE00051,Apparel,Referral,desktop,40.71
+50498,2016-11-15,GGOE00240,Electronics Accessories,Direct,desktop,22.17
+50516,2016-11-14,GGOE00218,Lifestyle,Direct,desktop,80.37
+50529,2017-01-22,GGOE00188,Lifestyle,Direct,desktop,23.38
+50655,2017-01-24,GGOE00325,Headgear,Direct,tablet,11.15
+50835,2016-11-19,GGOE00142,Bags,Referral,desktop,106.6
+51039,2016-12-06,GGOE00078,Drinkware,Organic Search,desktop,19.24
+51054,2016-12-31,GGOE00316,Headgear,Direct,desktop,28.53
+51079,2016-11-17,GGOE00342,Nest,Direct,desktop,297.84
+51354,2017-01-07,GGOE00134,Bags,Organic Search,desktop,58.89
+51381,2016-11-26,GGOE00214,Lifestyle,Direct,desktop,78.75
+51398,2017-01-16,GGOE00134,Bags,Paid Search,desktop,58.89
+51412,2017-01-09,GGOE00052,Apparel,Direct,desktop,14.84
+51481,2016-12-06,GGOE00158,Office,Organic Search,desktop,2.22
+51802,2016-12-29,GGOE00208,Lifestyle,Referral,desktop,35.77
+51836,2016-11-10,GGOE00059,Drinkware,Organic Search,desktop,19.75
+51887,2016-11-06,GGOE00227,Lifestyle,Organic Search,desktop,73.89
+51920,2016-12-23,GGOE00152,Office,Organic Search,desktop,18.21
+51926,2017-01-02,GGOE00217,Lifestyle,Direct,desktop,70.88
+52189,2016-11-05,GGOE00098,Bags,Referral,desktop,23.52
+52268,2017-01-04,GGOE00258,Electronics Accessories,Referral,desktop,6.26
+52277,2016-11-01,GGOE00163,Office,Social,desktop,15.49
+52291,2016-12-14,GGOE00183,Lifestyle,Organic Search,desktop,11.83
+52298,2016-12-21,GGOE00299,Headgear,Paid Search,desktop,28.51
+52307,2016-12-31,GGOE00289,Headgear,Referral,desktop,29.59
+52398,2016-12-27,GGOE00165,Office,Referral,desktop,15.27
+52433,2016-12-22,GGOE00038,Apparel,Organic Search,desktop,51.84
+52469,2017-01-24,GGOE00062,Drinkware,Direct,desktop,21.91
+52639,2016-11-16,GGOE00253,Electronics Accessories,Organic Search,desktop,22.21
+52644,2016-11-17,GGOE00112,Bags,Organic Search,desktop,112.68
+52880,2017-01-30,GGOE00149,Office,Organic Search,desktop,7.02
+52924,2016-11-13,GGOE00164,Office,Organic Search,desktop,12.5
+52995,2016-11-23,GGOE00339,Nest,Organic Search,desktop,228.94
+53186,2016-11-21,GGOE00007,Apparel,Paid Search,desktop,51.42
+53203,2016-11-05,GGOE00186,Lifestyle,Referral,desktop,28.73
+53219,2016-11-29,GGOE00305,Headgear,Direct,desktop,8.9
+53375,2017-01-17,GGOE00271,Electronics Accessories,Organic Search,desktop,40.12
+53391,2017-01-24,GGOE00117,Bags,Social,tablet,56.08
+53550,2017-01-30,GGOE00258,Electronics Accessories,Organic Search,desktop,6.26
+53678,2016-11-08,GGOE00001,Apparel,Referral,desktop,55.07
+53803,2016-12-11,GGOE00227,Lifestyle,Organic Search,desktop,73.89
+53910,2016-11-27,GGOE00241,Electronics Accessories,Organic Search,desktop,30.6
+53953,2016-11-03,GGOE00149,Office,Organic Search,desktop,7.02
+54080,2016-11-14,GGOE00236,Electronics Accessories,Organic Search,desktop,26.68
+54084,2017-01-15,GGOE00004,Apparel,Direct,desktop,26.41
+54145,2016-11-06,GGOE00124,Bags,Organic Search,desktop,34.91
+54155,2016-11-04,GGOE00279,Electronics Accessories,Social,desktop,18.57
+54167,2017-01-17,GGOE00024,Apparel,Direct,desktop,13.71
+54353,2017-01-30,GGOE00238,Electronics Accessories,Organic Search,desktop,18.93
+54413,2017-01-19,GGOE00354,Nest,Paid Search,desktop,170.06
+54464,2016-11-26,GGOE00324,Headgear,Referral,desktop,34.67
+54528,2016-12-08,GGOE00142,Bags,Affiliates,desktop,106.6
+54529,2016-11-08,GGOE00077,Drinkware,Direct,desktop,27.6
+54673,2016-12-14,GGOE00343,Nest,Organic Search,desktop,271.17
+54711,2017-01-17,GGOE00291,Headgear,Organic Search,desktop,27.47
+54726,2016-11-16,GGOE00328,Headgear,Organic Search,desktop,20.05
+54741,2016-12-09,GGOE00329,Headgear,Organic Search,desktop,28.26
+54955,2016-11-15,GGOE00002,Apparel,Organic Search,desktop,49.23
+54962,2017-01-29,GGOE00214,Lifestyle,Referral,desktop,78.75
+54999,2017-01-10,GGOE00350,Nest,Direct,desktop,174.83
+55039,2016-12-12,GGOE00039,Apparel,Referral,desktop,19.41
+55072,2016-11-03,GGOE00287,Headgear,Direct,desktop,11.4
+55206,2017-01-20,GGOE00277,Electronics Accessories,Referral,desktop,37.68
+55228,2017-01-24,GGOE00341,Nest,Organic Search,desktop,63.19
+55268,2017-01-20,GGOE00283,Headgear,Organic Search,desktop,15.19
+55285,2016-12-02,GGOE00241,Electronics Accessories,Paid Search,desktop,30.6
+55416,2016-12-17,GGOE00250,Electronics Accessories,Organic Search,mobile,12.03
+55421,2016-11-26,GGOE00229,Lifestyle,Organic Search,desktop,67.21
+55472,2016-12-05,GGOE00018,Apparel,Organic Search,desktop,41.86
+55485,2016-12-25,GGOE00103,Bags,Paid Search,desktop,106.01
+55493,2016-12-06,GGOE00045,Apparel,Paid Search,desktop,47.61
+55546,2016-12-31,GGOE00252,Electronics Accessories,Organic Search,mobile,16.85
+55597,2016-11-22,GGOE00076,Drinkware,Direct,desktop,28.62
+55619,2017-01-26,GGOE00002,Apparel,Affiliates,desktop,49.23
+55736,2016-12-27,GGOE00088,Drinkware,Display,desktop,15.27
+55819,2016-11-11,GGOE00236,Electronics Accessories,Paid Search,desktop,26.68
+55852,2017-01-24,GGOE00023,Apparel,Direct,desktop,14.11
+56156,2017-01-24,GGOE00358,Nest,Referral,desktop,180.73
+56273,2016-11-10,GGOE00289,Headgear,Referral,desktop,29.59
+56332,2016-11-24,GGOE00255,Electronics Accessories,Organic Search,desktop,34.61
+56356,2016-12-13,GGOE00122,Bags,Organic Search,desktop,66.43
+56416,2017-01-02,GGOE00200,Lifestyle,Paid Search,desktop,58.08
+56540,2016-11-04,GGOE00296,Headgear,Organic Search,desktop,18.67
+56633,2016-11-20,GGOE00205,Lifestyle,Paid Search,desktop,86.73
+56637,2016-11-20,GGOE00217,Lifestyle,Organic Search,desktop,70.88
+56748,2017-01-07,GGOE00259,Electronics Accessories,Organic Search,desktop,35.05
+56813,2016-12-05,GGOE00211,Lifestyle,Referral,desktop,59.38
+56842,2016-11-17,GGOE00299,Headgear,Direct,desktop,28.51
+56950,2016-12-25,GGOE00202,Lifestyle,Referral,desktop,55.1
+57024,2016-12-29,GGOE00296,Headgear,Paid Search,desktop,18.67
+57060,2016-11-23,GGOE00294,Headgear,Paid Search,desktop,30.76
+57157,2016-11-24,GGOE00182,Lifestyle,Organic Search,desktop,83.08
+57263,2016-12-09,GGOE00283,Headgear,Paid Search,desktop,15.19
+57308,2016-11-02,GGOE00145,Office,Organic Search,desktop,2.65
+57309,2017-01-22,GGOE00318,Headgear,Direct,desktop,12.0
+57325,2017-01-14,GGOE00106,Bags,Organic Search,desktop,85.21
+57502,2017-01-13,GGOE00135,Bags,Social,desktop,117.84
+57537,2017-01-07,GGOE00133,Bags,Organic Search,desktop,114.72
+57606,2016-11-11,GGOE00361,Nest,Organic Search,desktop,206.13
+57726,2016-12-26,GGOE00141,Bags,Direct,desktop,56.93
+57852,2016-11-29,GGOE00090,Drinkware,Paid Search,desktop,5.95
+57889,2016-12-10,GGOE00004,Apparel,Direct,desktop,26.41
+58108,2017-01-06,GGOE00225,Lifestyle,Referral,desktop,59.82
+58157,2016-11-14,GGOE00275,Electronics Accessories,Direct,desktop,33.55
+58158,2017-01-09,GGOE00203,Lifestyle,Organic Search,desktop,11.25
+58161,2016-12-01,GGOE00245,Electronics Accessories,Direct,desktop,30.82
+58241,2017-01-22,GGOE00129,Bags,Organic Search,desktop,114.29
+58378,2016-12-07,GGOE00274,Electronics Accessories,Organic Search,desktop,7.07
+58393,2016-11-07,GGOE00132,Bags,Direct,desktop,39.87
+58515,2016-11-14,GGOE00329,Headgear,Direct,mobile,28.26
+58551,2017-01-17,GGOE00058,Drinkware,Paid Search,desktop,29.47
+58580,2016-11-15,GGOE00182,Lifestyle,Organic Search,desktop,83.08
+58672,2017-01-12,GGOE00006,Apparel,Direct,desktop,12.25
+58774,2017-01-14,GGOE00321,Headgear,Paid Search,desktop,32.86
+58884,2016-12-26,GGOE00245,Electronics Accessories,Direct,desktop,30.82
+58888,2017-01-10,GGOE00240,Electronics Accessories,Affiliates,desktop,22.17
+58969,2016-11-04,GGOE00351,Nest,Direct,desktop,79.78
+59024,2016-11-12,GGOE00279,Electronics Accessories,Social,desktop,18.57
+59121,2016-12-06,GGOE00324,Headgear,Direct,desktop,34.67
+59354,2017-01-19,GGOE00261,Electronics Accessories,Organic Search,desktop,8.59
+59365,2016-12-21,GGOE00042,Apparel,Organic Search,desktop,36.47
+59383,2017-01-06,GGOE00282,Electronics Accessories,Organic Search,desktop,34.81
+59465,2016-12-12,GGOE00107,Bags,Direct,desktop,49.1
+59489,2017-01-15,GGOE00072,Drinkware,Organic Search,desktop,26.85
+59538,2017-01-17,GGOE00111,Bags,Direct,desktop,26.62
+59772,2017-01-09,GGOE00298,Headgear,Direct,desktop,12.98
+59829,2016-11-18,GGOE00058,Drinkware,Organic Search,desktop,29.47
+59862,2017-01-26,GGOE00249,Electronics Accessories,Organic Search,desktop,25.66
+60109,2016-12-30,GGOE00075,Drinkware,Referral,desktop,26.13
+60215,2017-01-31,GGOE00167,Office,Organic Search,desktop,8.36
+60222,2016-12-27,GGOE00280,Electronics Accessories,Paid Search,tablet,5.7
+60232,2016-12-09,GGOE00357,Nest,Organic Search,desktop,115.47
+60319,2017-01-31,GGOE00275,Electronics Accessories,Direct,mobile,33.55
+60424,2017-01-06,GGOE00031,Apparel,Referral,desktop,23.88
+60476,2016-11-01,GGOE00102,Bags,Organic Search,mobile,67.61
+60548,2016-12-26,GGOE00117,Bags,Direct,desktop,56.08
+60607,2017-01-12,GGOE00187,Lifestyle,Direct,desktop,28.38
+60794,2016-11-05,GGOE00156,Office,Paid Search,desktop,10.56
+60899,2016-11-05,GGOE00204,Lifestyle,Referral,desktop,73.74
+60935,2016-12-15,GGOE00240,Electronics Accessories,Organic Search,desktop,22.17
+60976,2017-01-04,GGOE00195,Lifestyle,Direct,desktop,33.47
+61071,2016-11-30,GGOE00180,Lifestyle,Organic Search,mobile,79.97
+61075,2016-12-09,GGOE00106,Bags,Referral,desktop,85.21
+61352,2017-01-10,GGOE00224,Lifestyle,Direct,desktop,62.22
+61442,2016-11-07,GGOE00113,Bags,Paid Search,desktop,10.57
+61535,2017-01-20,GGOE00258,Electronics Accessories,Direct,desktop,6.26
+61714,2016-11-05,GGOE00202,Lifestyle,Organic Search,desktop,55.1
+61750,2016-12-30,GGOE00135,Bags,Organic Search,desktop,117.84
+61926,2016-12-21,GGOE00144,Office,Direct,desktop,23.15
+62055,2017-01-27,GGOE00107,Bags,Organic Search,desktop,49.1
+62077,2017-01-18,GGOE00142,Bags,Referral,desktop,106.6
+62246,2016-11-28,GGOE00060,Drinkware,Referral,desktop,20.13
+62329,2016-12-29,GGOE00182,Lifestyle,Organic Search,desktop,83.08
+62711,2016-12-22,GGOE00333,Nest,Direct,desktop,241.28
+62737,2016-11-08,GGOE00131,Bags,Organic Search,desktop,47.41
+62814,2017-01-22,GGOE00003,Apparel,Affiliates,desktop,22.81
+62845,2016-11-28,GGOE00305,Headgear,Paid Search,desktop,8.9
+62861,2016-12-24,GGOE00361,Nest,Organic Search,desktop,206.13
+62941,2017-01-18,GGOE00022,Apparel,Organic Search,desktop,41.4
+62978,2016-12-22,GGOE00158,Office,Organic Search,desktop,2.22
+63032,2016-11-02,GGOE00244,Electronics Accessories,Organic Search,desktop,8.62
+63036,2016-12-30,GGOE00357,Nest,Direct,desktop,115.47
+63063,2017-01-01,GGOE00339,Nest,Organic Search,desktop,228.94
+63104,2016-12-22,GGOE00329,Headgear,Organic Search,desktop,28.26
+63109,2017-01-27,GGOE00197,Lifestyle,Direct,desktop,52.15
+63136,2016-11-03,GGOE00066,Drinkware,Organic Search,desktop,15.06
+63164,2016-12-01,GGOE00244,Electronics Accessories,Direct,desktop,8.62
+63172,2017-01-27,GGOE00066,Drinkware,Paid Search,desktop,15.06
+63208,2017-01-09,GGOE00046,Apparel,Organic Search,desktop,16.39
+63271,2016-12-07,GGOE00140,Bags,Direct,desktop,73.87
+63333,2016-12-10,GGOE00232,Electronics Accessories,Organic Search,desktop,9.78
+63340,2016-12-26,GGOE00104,Bags,Direct,desktop,47.86
+63351,2016-12-05,GGOE00071,Drinkware,Referral,desktop,12.51
+63384,2017-01-22,GGOE00099,Bags,Organic Search,desktop,116.39
+63401,2017-01-01,GGOE00217,Lifestyle,Organic Search,desktop,70.88
+63408,2016-11-21,GGOE00310,Headgear,Organic Search,desktop,27.48
+63424,2016-11-16,GGOE00317,Headgear,Organic Search,desktop,34.81
+63459,2016-12-26,GGOE00244,Electronics Accessories,Referral,desktop,8.62
+63478,2016-11-09,GGOE00049,Apparel,Direct,desktop,53.82
+63682,2016-12-14,GGOE00253,Electronics Accessories,Referral,desktop,22.21
+63717,2017-01-26,GGOE00331,Headgear,Organic Search,desktop,32.69
+63739,2017-01-04,GGOE00050,Apparel,Organic Search,desktop,29.34
+63802,2016-12-28,GGOE00056,Drinkware,Organic Search,desktop,25.41
+63809,2017-01-24,GGOE00354,Nest,Direct,desktop,170.06
+63836,2016-11-29,GGOE00120,Bags,Organic Search,desktop,79.13
+63878,2017-01-08,GGOE00313,Headgear,Organic Search,desktop,32.83
+63917,2016-12-20,GGOE00272,Electronics Accessories,Direct,mobile,18.77
+63960,2016-11-09,GGOE00014,Apparel,Paid Search,desktop,36.22
+64095,2016-11-01,GGOE00206,Lifestyle,Organic Search,desktop,78.03
+64104,2016-12-27,GGOE00062,Drinkware,Paid Search,desktop,21.91
+64131,2017-01-29,GGOE00134,Bags,Organic Search,mobile,58.89
+64190,2016-11-02,GGOE00119,Bags,Direct,desktop,11.57
+64203,2017-01-20,GGOE00216,Lifestyle,Referral,desktop,18.59
+64432,2017-01-12,GGOE00017,Apparel,Organic Search,desktop,50.05
+64448,2016-11-23,GGOE00114,Bags,Paid Search,tablet,92.83
+64555,2016-11-01,GGOE00018,Apparel,Direct,desktop,41.86
+64841,2016-11-05,GGOE00195,Lifestyle,Organic Search,desktop,33.47
+64892,2016-12-08,GGOE00280,Electronics Accessories,Paid Search,desktop,5.7
+64968,2016-11-08,GGOE00360,Nest,Direct,desktop,178.04
+64996,2016-11-17,GGOE00065,Drinkware,Referral,desktop,10.99
+65011,2016-11-18,GGOE00193,Lifestyle,Organic Search,desktop,63.59
+65266,2016-11-20,GGOE00094,Drinkware,Referral,desktop,13.05
+65340,2016-12-01,GGOE00351,Nest,Organic Search,desktop,79.78
+65426,2016-12-25,GGOE00056,Drinkware,Social,desktop,25.41
+65680,2017-01-07,GGOE00131,Bags,Organic Search,desktop,47.41
+65777,2016-11-23,GGOE00137,Bags,Affiliates,desktop,67.33
+65798,2017-01-29,GGOE00357,Nest,Referral,desktop,115.47
+65877,2016-11-24,GGOE00004,Apparel,Referral,desktop,26.41
+65882,2017-01-19,GGOE00025,Apparel,Organic Search,desktop,36.71
+65948,2016-12-06,GGOE00342,Nest,Direct,desktop,297.84
+65980,2017-01-13,GGOE00071,Drinkware,Direct,desktop,12.51
+66018,2017-01-29,GGOE00253,Electronics Accessories,Organic Search,desktop,22.21
+66118,2016-12-05,GGOE00080,Drinkware,Direct,desktop,9.81
+66121,2016-11-14,GGOE00285,Headgear,Organic Search,desktop,28.2
+66138,2016-12-24,GGOE00055,Drinkware,Referral,desktop,8.75
+66457,2016-11-26,GGOE00329,Headgear,Organic Search,desktop,28.26
+66473,2016-11-21,GGOE00294,Headgear,Paid Search,desktop,30.76
+66517,2016-12-10,GGOE00247,Electronics Accessories,Organic Search,desktop,18.83
+66567,2016-11-11,GGOE00089,Drinkware,Paid Search,desktop,10.99
+66600,2017-01-09,GGOE00244,Electronics Accessories,Referral,desktop,8.62
+66695,2017-01-07,GGOE00193,Lifestyle,Organic Search,desktop,63.59
+66770,2016-12-29,GGOE00044,Apparel,Direct,desktop,42.71
+66789,2016-11-20,GGOE00163,Office,Referral,desktop,15.49
+66796,2017-01-02,GGOE00057,Drinkware,Organic Search,desktop,14.49
+66948,2016-11-20,GGOE00138,Bags,Organic Search,desktop,108.62
+67033,2016-11-01,GGOE00242,Electronics Accessories,Organic Search,desktop,7.25
+67117,2016-12-18,GGOE00230,Lifestyle,Referral,desktop,79.12
+67133,2016-11-02,GGOE00168,Office,Referral,desktop,24.07
+67168,2016-12-14,GGOE00158,Office,Organic Search,desktop,2.22
+67224,2016-12-08,GGOE00310,Headgear,Organic Search,desktop,27.48
+67391,2016-12-31,GGOE00284,Headgear,Direct,desktop,22.48
+67399,2016-11-22,GGOE00170,Office,Direct,desktop,16.07
+67430,2016-11-30,GGOE00271,Electronics Accessories,Direct,desktop,40.12
+67499,2017-01-14,GGOE00167,Office,Social,desktop,8.36
+67501,2017-01-12,GGOE00160,Office,Organic Search,desktop,22.97
+67591,2017-01-18,GGOE00262,Electronics Accessories,Referral,desktop,8.49
+67750,2017-01-19,GGOE00293,Headgear,Referral,desktop,33.36
+67770,2016-12-31,GGOE00282,Electronics Accessories,Organic Search,desktop,34.81
+67869,2016-12-20,GGOE00192,Lifestyle,Referral,desktop,21.61
+67972,2017-01-16,GGOE00068,Drinkware,Organic Search,desktop,29.2
+67973,2016-12-31,GGOE00125,Bags,Referral,desktop,31.84
+68024,2016-12-05,GGOE00248,Electronics Accessories,Paid Search,desktop,18.61
+68034,2016-11-26,GGOE00285,Headgear,Organic Search,desktop,28.2
+68095,2017-01-08,GGOE00233,Electronics Accessories,Organic Search,desktop,4.12
+68100,2016-12-31,GGOE00337,Nest,Referral,desktop,127.45
+68341,2017-01-14,GGOE00114,Bags,Referral,desktop,92.83
+68449,2016-11-11,GGOE00244,Electronics Accessories,Direct,desktop,8.62
+68523,2017-01-04,GGOE00130,Bags,Organic Search,mobile,73.07
+68601,2016-12-20,GGOE00191,Lifestyle,Referral,desktop,56.41
+68602,2016-12-15,GGOE00323,Headgear,Organic Search,desktop,10.48
+68604,2017-01-12,GGOE00118,Bags,Organic Search,desktop,99.68
+68624,2016-12-14,GGOE00030,Apparel,Referral,desktop,35.85
+68670,2016-11-18,GGOE00207,Lifestyle,Direct,mobile,12.16
+68686,2016-12-03,GGOE00284,Headgear,Organic Search,desktop,22.48
+68815,2016-11-09,GGOE00148,Office,Direct,desktop,23.82
+68864,2017-01-13,GGOE00243,Electronics Accessories,Direct,desktop,18.98
+68886,2016-12-13,GGOE00054,Drinkware,Direct,mobile,13.08
+69031,2016-11-27,GGOE00279,Electronics Accessories,Direct,desktop,18.57
+69060,2016-12-19,GGOE00240,Electronics Accessories,Affiliates,tablet,22.17
+69077,2017-01-03,GGOE00156,Office,Organic Search,desktop,10.56
+69098,2017-01-14,GGOE00003,Apparel,Direct,desktop,22.81
+69299,2016-11-14,GGOE00170,Office,Organic Search,desktop,16.07
+69575,2017-01-01,GGOE00317,Headgear,Organic Search,desktop,34.81
+69584,2017-01-31,GGOE00061,Drinkware,Organic Search,desktop,20.95
+69602,2016-11-05,GGOE00248,Electronics Accessories,Referral,desktop,18.61
+69711,2016-11-22,GGOE00338,Nest,Organic Search,mobile,127.06
+69744,2016-11-04,GGOE00353,Nest,Direct,mobile,264.12
+69755,2016-12-02,GGOE00199,Lifestyle,Paid Search,desktop,61.96
+69798,2016-11-30,GGOE00059,Drinkware,Social,desktop,19.75
+69821,2016-11-22,GGOE00175,Office,Direct,desktop,19.34
+69885,2016-12-02,GGOE00106,Bags,Organic Search,desktop,85.21
+69887,2017-01-11,GGOE00143,Office,Organic Search,desktop,10.88
+69899,2017-01-31,GGOE00061,Drinkware,Organic Search,mobile,20.95
+69981,2017-01-28,GGOE00162,Office,Direct,desktop,3.7
+70060,2016-12-27,GGOE00258,Electronics Accessories,Organic Search,desktop,6.26
+70353,2016-12-19,GGOE00163,Office,Direct,desktop,15.49
+70377,2016-11-28,GGOE00235,Electronics Accessories,Direct,desktop,12.02
+70404,2016-12-04,GGOE00183,Lifestyle,Referral,desktop,11.83
+70457,2017-01-01,GGOE00247,Electronics Accessories,Direct,desktop,18.83
+70518,2017-01-01,GGOE00181,Lifestyle,Referral,desktop,50.91
+70593,2016-12-05,GGOE00129,Bags,Direct,desktop,114.29
+70703,2016-11-28,GGOE00118,Bags,Direct,desktop,99.68
+70783,2016-12-04,GGOE00114,Bags,Referral,desktop,92.83
+70836,2016-12-20,GGOE00040,Apparel,Organic Search,desktop,24.84
+70879,2016-12-02,GGOE00115,Bags,Organic Search,desktop,99.16
+70901,2017-01-12,GGOE00170,Office,Direct,desktop,16.07
+71082,2017-01-10,GGOE00169,Office,Organic Search,tablet,12.18
+71101,2017-01-24,GGOE00030,Apparel,Direct,desktop,35.85
+71106,2017-01-12,GGOE00229,Lifestyle,Organic Search,desktop,67.21
+71107,2017-01-04,GGOE00154,Office,Organic Search,desktop,24.32
+71444,2016-11-29,GGOE00072,Drinkware,Organic Search,desktop,26.85
+71456,2016-11-19,GGOE00145,Office,Direct,mobile,2.65
+71627,2016-11-25,GGOE00090,Drinkware,Direct,desktop,5.95
+71751,2017-01-20,GGOE00211,Lifestyle,Direct,tablet,59.38
+71765,2017-01-11,GGOE00334,Nest,Organic Search,desktop,65.9
+71842,2017-01-17,GGOE00028,Apparel,Referral,desktop,42.2
+71864,2017-01-07,GGOE00345,Nest,Paid Search,desktop,110.64
+71923,2016-12-19,GGOE00029,Apparel,Direct,desktop,36.68
+72166,2017-01-15,GGOE00029,Apparel,Organic Search,desktop,36.68
+72251,2016-12-06,GGOE00198,Lifestyle,Referral,desktop,74.55
+72295,2016-12-30,GGOE00037,Apparel,Referral,desktop,12.18
+72332,2016-12-22,GGOE00228,Lifestyle,Referral,desktop,34.83
+72374,2016-12-12,GGOE00244,Electronics Accessories,Direct,desktop,8.62
+72394,2016-11-15,GGOE00324,Headgear,Referral,desktop,34.67
+72565,2017-01-13,GGOE00036,Apparel,Organic Search,desktop,29.74
+72577,2016-11-03,GGOE00323,Headgear,Social,desktop,10.48
+72754,2017-01-15,GGOE00128,Bags,Organic Search,desktop,48.07
+73004,2017-01-13,GGOE00213,Lifestyle,Paid Search,desktop,33.73
+73084,2017-01-26,GGOE00241,Electronics Accessories,Organic Search,desktop,30.6
+73144,2016-11-21,GGOE00239,Electronics Accessories,Organic Search,desktop,13.62
+73189,2016-11-21,GGOE00065,Drinkware,Organic Search,desktop,10.99
+73220,2016-11-11,GGOE00311,Headgear,Direct,desktop,18.3
+73593,2016-11-29,GGOE00313,Headgear,Paid Search,desktop,32.83
+73610,2017-01-25,GGOE00247,Electronics Accessories,Direct,desktop,18.83
+73647,2017-01-18,GGOE00302,Headgear,Direct,desktop,20.01
+73662,2016-11-11,GGOE00248,Electronics Accessories,Referral,desktop,18.61
+73738,2016-11-26,GGOE00014,Apparel,Referral,desktop,36.22
+73790,2016-11-27,GGOE00142,Bags,Paid Search,desktop,106.6
+73855,2017-01-22,GGOE00204,Lifestyle,Organic Search,desktop,73.74
+74051,2016-11-02,GGOE00241,Electronics Accessories,Referral,desktop,30.6
+74085,2016-12-06,GGOE00049,Apparel,Referral,desktop,53.82
+74122,2017-01-29,GGOE00142,Bags,Referral,desktop,106.6
+74133,2017-01-19,GGOE00344,Nest,Referral,mobile,278.08
+74170,2016-12-16,GGOE00151,Office,Direct,desktop,17.24
+74349,2016-11-05,GGOE00164,Office,Organic Search,desktop,12.5
+74376,2016-11-04,GGOE00072,Drinkware,Social,desktop,26.85
+74393,2016-12-30,GGOE00235,Electronics Accessories,Organic Search,desktop,12.02
+74481,2016-11-20,GGOE00250,Electronics Accessories,Social,mobile,12.03
+74544,2017-01-10,GGOE00283,Headgear,Referral,desktop,15.19
+74552,2017-01-08,GGOE00335,Nest,Direct,desktop,167.35
+74564,2017-01-21,GGOE00261,Electronics Accessories,Display,desktop,8.59
+74731,2016-11-21,GGOE00009,Apparel,Paid Search,desktop,34.46
+74742,2016-12-11,GGOE00324,Headgear,Direct,desktop,34.67
+74780,2017-01-13,GGOE00312,Headgear,Referral,desktop,30.43
+74972,2017-01-25,GGOE00104,Bags,Organic Search,desktop,47.86
+74998,2017-01-12,GGOE00132,Bags,Direct,mobile,39.87
+75004,2016-12-23,GGOE00119,Bags,Organic Search,desktop,11.57
+75148,2017-01-20,GGOE00030,Apparel,Organic Search,desktop,35.85
+75183,2017-01-17,GGOE00147,Office,Organic Search,desktop,13.47
+75281,2017-01-31,GGOE00293,Headgear,Referral,desktop,33.36
+75304,2017-01-31,GGOE00319,Headgear,Referral,mobile,27.24
+75356,2016-11-01,GGOE00279,Electronics Accessories,Organic Search,desktop,18.57
+75405,2016-11-29,GGOE00082,Drinkware,Organic Search,desktop,18.81
+75410,2017-01-29,GGOE00126,Bags,Organic Search,desktop,49.94
+75474,2016-11-09,GGOE00176,Office,Organic Search,desktop,20.57
+75484,2016-11-26,GGOE00225,Lifestyle,Organic Search,desktop,59.82
+75526,2017-01-15,GGOE00072,Drinkware,Paid Search,desktop,26.85
+75530,2017-01-25,GGOE00283,Headgear,Direct,desktop,15.19
+75585,2016-12-02,GGOE00138,Bags,Paid Search,desktop,108.62
+75619,2016-11-17,GGOE00095,Drinkware,Direct,desktop,23.78
+75626,2016-11-30,GGOE00139,Bags,Direct,tablet,91.7
+75629,2017-01-03,GGOE00040,Apparel,Organic Search,desktop,24.84
+75834,2016-12-17,GGOE00117,Bags,Organic Search,desktop,56.08
+75910,2017-01-22,GGOE00222,Lifestyle,Direct,desktop,57.97
+76121,2016-11-16,GGOE00091,Drinkware,Referral,desktop,26.91
+76225,2016-12-17,GGOE00193,Lifestyle,Direct,desktop,63.59
+76279,2017-01-16,GGOE00098,Bags,Organic Search,mobile,23.52
+76377,2016-12-13,GGOE00306,Headgear,Organic Search,mobile,30.8
+76446,2016-11-12,GGOE00011,Apparel,Referral,desktop,25.36
+76517,2017-01-13,GGOE00021,Apparel,Referral,desktop,19.69
+76606,2017-01-21,GGOE00183,Lifestyle,Organic Search,desktop,11.83
+76649,2017-01-22,GGOE00166,Office,Organic Search,tablet,16.82
+76752,2016-12-10,GGOE00321,Headgear,Organic Search,desktop,32.86
+76784,2016-12-02,GGOE00250,Electronics Accessories,Organic Search,desktop,12.03
+76836,2017-01-30,GGOE00125,Bags,Organic Search,desktop,31.84
+76885,2016-11-28,GGOE00186,Lifestyle,Direct,desktop,28.73
+76906,2016-12-22,GGOE00145,Office,Referral,desktop,2.65
+77023,2016-11-23,GGOE00202,Lifestyle,Organic Search,desktop,55.1
+77050,2017-01-06,GGOE00349,Nest,Referral,mobile,57.26
+77106,2016-12-19,GGOE00157,Office,Paid Search,desktop,5.87
+77112,2017-01-27,GGOE00147,Office,Organic Search,desktop,13.47
+77127,2017-01-01,GGOE00278,Electronics Accessories,Organic Search,desktop,31.32
+77197,2016-12-20,GGOE00004,Apparel,Referral,mobile,26.41
+77421,2016-12-06,GGOE00245,Electronics Accessories,Paid Search,desktop,30.82
+77530,2016-12-11,GGOE00207,Lifestyle,Organic Search,desktop,12.16
+77541,2017-01-21,GGOE00359,Nest,Organic Search,desktop,119.74
+77681,2016-11-06,GGOE00243,Electronics Accessories,Paid Search,desktop,18.98
+77859,2017-01-17,GGOE00093,Drinkware,Social,desktop,18.69
+77897,2016-11-12,GGOE00148,Office,Direct,desktop,23.82
+77918,2016-12-31,GGOE00015,Apparel,Direct,desktop,38.57
+77952,2016-12-13,GGOE00172,Office,Referral,desktop,5.41
+78120,2016-11-25,GGOE00277,Electronics Accessories,Social,desktop,37.68
+78373,2016-12-02,GGOE00041,Apparel,Referral,desktop,54.26
+78472,2017-01-05,GGOE00086,Drinkware,Organic Search,desktop,19.24
+78685,2017-01-08,GGOE00266,Electronics Accessories,Direct,desktop,15.87
+78856,2017-01-01,GGOE00222,Lifestyle,Paid Search,desktop,57.97
+78967,2016-12-02,GGOE00234,Electronics Accessories,Organic Search,desktop,30.33
+79070,2017-01-06,GGOE00065,Drinkware,Organic Search,desktop,10.99
+79210,2016-11-05,GGOE00271,Electronics Accessories,Direct,desktop,40.12
+79240,2016-12-13,GGOE00023,Apparel,Organic Search,desktop,14.11
+79261,2016-11-25,GGOE00235,Electronics Accessories,Direct,desktop,12.02
+79361,2016-12-10,GGOE00334,Nest,Organic Search,desktop,65.9
+79462,2016-11-13,GGOE00135,Bags,Referral,desktop,117.84
+79509,2016-12-28,GGOE00355,Nest,Referral,desktop,94.93
+79517,2016-12-26,GGOE00093,Drinkware,Direct,desktop,18.69
+79579,2016-12-09,GGOE00189,Lifestyle,Organic Search,desktop,54.5
+79594,2016-11-30,GGOE00298,Headgear,Organic Search,desktop,12.98
+79613,2016-11-20,GGOE00152,Office,Organic Search,desktop,18.21
+79690,2016-12-01,GGOE00139,Bags,Social,desktop,91.7
+79701,2016-12-20,GGOE00324,Headgear,Organic Search,desktop,34.67
+79741,2016-12-31,GGOE00342,Nest,Direct,desktop,297.84
+79949,2016-11-05,GGOE00319,Headgear,Paid Search,desktop,27.24
+79970,2017-01-03,GGOE00001,Apparel,Direct,desktop,55.07
+80050,2017-01-30,GGOE00165,Office,Direct,desktop,15.27
+80074,2017-01-03,GGOE00278,Electronics Accessories,Direct,desktop,31.32
+80129,2016-12-02,GGOE00299,Headgear,Direct,desktop,28.51
+80139,2017-01-30,GGOE00290,Headgear,Social,desktop,25.4
+80208,2017-01-08,GGOE00213,Lifestyle,Referral,desktop,33.73
+80457,2016-11-28,GGOE00193,Lifestyle,Referral,desktop,63.59
+80503,2016-11-05,GGOE00054,Drinkware,Organic Search,desktop,13.08
+80582,2017-01-11,GGOE00002,Apparel,Direct,mobile,49.23
+80703,2016-12-02,GGOE00252,Electronics Accessories,Direct,desktop,16.85
+80712,2017-01-25,GGOE00218,Lifestyle,Direct,desktop,80.37
+80911,2017-01-04,GGOE00051,Apparel,Organic Search,desktop,40.71
+81072,2016-11-08,GGOE00286,Headgear,Referral,desktop,32.21
+81074,2016-11-16,GGOE00136,Bags,Paid Search,desktop,66.71
+81088,2016-11-09,GGOE00351,Nest,Organic Search,desktop,79.78
+81093,2016-12-04,GGOE00030,Apparel,Referral,desktop,35.85
+81096,2017-01-02,GGOE00235,Electronics Accessories,Referral,desktop,12.02
+81110,2016-12-04,GGOE00065,Drinkware,Social,desktop,10.99
+81140,2016-12-23,GGOE00221,Lifestyle,Direct,desktop,60.38
+81206,2016-11-07,GGOE00192,Lifestyle,Direct,desktop,21.61
+81225,2016-11-19,GGOE00207,Lifestyle,Referral,desktop,12.16
+81298,2017-01-10,GGOE00302,Headgear,Direct,desktop,20.01
+81330,2016-11-05,GGOE00117,Bags,Organic Search,desktop,56.08
+81391,2017-01-21,GGOE00235,Electronics Accessories,Direct,mobile,12.02
+81470,2016-11-12,GGOE00015,Apparel,Paid Search,desktop,38.57
+81582,2016-12-30,GGOE00126,Bags,Organic Search,desktop,49.94
+81648,2016-11-11,GGOE00003,Apparel,Display,desktop,22.81
+81921,2016-11-29,GGOE00268,Electronics Accessories,Organic Search,tablet,29.04
+81928,2016-12-26,GGOE00237,Electronics Accessories,Direct,desktop,42.68
+82026,2016-11-23,GGOE00104,Bags,Direct,desktop,47.86
+82100,2017-01-02,GGOE00157,Office,Organic Search,mobile,5.87
+82111,2017-01-21,GGOE00121,Bags,Referral,desktop,97.23
+82307,2016-12-28,GGOE00198,Lifestyle,Direct,desktop,74.55
+82313,2017-01-09,GGOE00117,Bags,Direct,desktop,56.08
+82315,2017-01-26,GGOE00356,Nest,Organic Search,desktop,216.47
+82369,2017-01-24,GGOE00361,Nest,Organic Search,desktop,206.13
+82431,2016-12-28,GGOE00267,Electronics Accessories,Referral,desktop,37.98
+82527,2017-01-25,GGOE00082,Drinkware,Referral,desktop,18.81
+82756,2016-11-01,GGOE00245,Electronics Accessories,Organic Search,desktop,30.82
+82774,2016-11-26,GGOE00006,Apparel,Paid Search,mobile,12.25
+82805,2016-12-16,GGOE00176,Office,Direct,desktop,20.57
+82810,2016-12-11,GGOE00287,Headgear,Organic Search,desktop,11.4
+82917,2017-01-25,GGOE00290,Headgear,Organic Search,desktop,25.4
+83041,2016-11-25,GGOE00245,Electronics Accessories,Referral,desktop,30.82
+83096,2017-01-31,GGOE00253,Electronics Accessories,Referral,desktop,22.21
+83140,2017-01-04,GGOE00358,Nest,Referral,desktop,180.73
+83355,2017-01-23,GGOE00073,Drinkware,Referral,desktop,21.56
+83370,2016-12-06,GGOE00076,Drinkware,Display,desktop,28.62
+83486,2017-01-18,GGOE00110,Bags,Organic Search,mobile,110.01
+83725,2017-01-26,GGOE00245,Electronics Accessories,Direct,desktop,30.82
+83781,2016-12-04,GGOE00052,Apparel,Affiliates,desktop,14.84
+83799,2016-11-11,GGOE00323,Headgear,Organic Search,desktop,10.48
+83866,2017-01-07,GGOE00324,Headgear,Direct,desktop,34.67
+83868,2016-12-19,GGOE00166,Office,Organic Search,desktop,16.82
+83913,2017-01-28,GGOE00308,Headgear,Referral,desktop,18.46
+83992,2017-01-01,GGOE00007,Apparel,Organic Search,desktop,51.42
+84029,2016-11-27,GGOE00295,Headgear,Direct,desktop,28.98
+84133,2016-11-02,GGOE00314,Headgear,Direct,desktop,18.46
+84134,2016-12-28,GGOE00306,Headgear,Organic Search,desktop,30.8
+84254,2016-11-14,GGOE00219,Lifestyle,Direct,desktop,24.18
+84282,2016-12-07,GGOE00183,Lifestyle,Organic Search,desktop,11.83
+84658,2017-01-23,GGOE00233,Electronics Accessories,Organic Search,desktop,4.12
+84679,2016-11-18,GGOE00135,Bags,Organic Search,desktop,117.84
+84693,2017-01-26,GGOE00294,Headgear,Direct,desktop,30.76
+84785,2017-01-30,GGOE00136,Bags,Paid Search,mobile,66.71
+84906,2017-01-28,GGOE00096,Drinkware,Paid Search,tablet,5.63
+84911,2017-01-13,GGOE00158,Office,Paid Search,desktop,2.22
+84981,2016-11-22,GGOE00063,Drinkware,Display,desktop,8.77
+85158,2017-01-24,GGOE00232,Electronics Accessories,Social,tablet,9.78
+85210,2016-12-03,GGOE00215,Lifestyle,Organic Search,desktop,73.36
+85378,2017-01-06,GGOE00081,Drinkware,Organic Search,desktop,28.2
+85382,2016-11-27,GGOE00150,Office,Organic Search,desktop,20.34
+85413,2016-11-14,GGOE00010,Apparel,Referral,desktop,26.55
+85634,2017-01-10,GGOE00009,Apparel,Paid Search,desktop,34.46
+85649,2016-12-09,GGOE00181,Lifestyle,Organic Search,desktop,50.91
+85670,2016-11-30,GGOE00079,Drinkware,Direct,desktop,8.64
+85757,2016-11-01,GGOE00231,Electronics Accessories,Organic Search,desktop,40.5
+85797,2016-12-19,GGOE00065,Drinkware,Organic Search,desktop,10.99
+85868,2017-01-03,GGOE00016,Apparel,Referral,desktop,59.78
+85875,2016-12-15,GGOE00116,Bags,Direct,desktop,25.04
+86040,2017-01-23,GGOE00255,Electronics Accessories,Organic Search,desktop,34.61
+86094,2016-12-25,GGOE00170,Office,Social,desktop,16.07
+86243,2016-11-26,GGOE00093,Drinkware,Direct,desktop,18.69
+86245,2016-11-06,GGOE00278,Electronics Accessories,Organic Search,desktop,31.32
+86316,2017-01-19,GGOE00108,Bags,Direct,desktop,67.1
+86448,2016-11-28,GGOE00133,Bags,Organic Search,mobile,114.72
+86477,2017-01-13,GGOE00180,Lifestyle,Social,desktop,79.97
+86514,2017-01-04,GGOE00011,Apparel,Organic Search,tablet,25.36
+86515,2017-01-01,GGOE00141,Bags,Social,desktop,56.93
+86535,2016-12-27,GGOE00235,Electronics Accessories,Paid Search,desktop,12.02
+86549,2016-12-10,GGOE00036,Apparel,Paid Search,desktop,29.74
+86560,2016-12-13,GGOE00093,Drinkware,Organic Search,desktop,18.69
+86667,2017-01-01,GGOE00195,Lifestyle,Referral,desktop,33.47
+86689,2017-01-05,GGOE00081,Drinkware,Organic Search,desktop,28.2
+86715,2016-12-29,GGOE00288,Headgear,Organic Search,desktop,12.98
+86802,2016-11-07,GGOE00044,Apparel,Direct,desktop,42.71
+86916,2016-12-10,GGOE00319,Headgear,Referral,desktop,27.24
+87105,2016-12-02,GGOE00275,Electronics Accessories,Organic Search,desktop,33.55
+87140,2016-11-28,GGOE00193,Lifestyle,Direct,desktop,63.59
+87174,2016-12-03,GGOE00021,Apparel,Direct,desktop,19.69
+87356,2016-11-07,GGOE00012,Apparel,Referral,desktop,24.23
+87456,2016-12-04,GGOE00127,Bags,Direct,desktop,29.73
+87544,2017-01-09,GGOE00302,Headgear,Organic Search,desktop,20.01
+87668,2016-12-14,GGOE00153,Office,Direct,desktop,16.11
+87733,2017-01-03,GGOE00014,Apparel,Organic Search,tablet,36.22
+87755,2017-01-18,GGOE00045,Apparel,Organic Search,desktop,47.61
+87834,2017-01-15,GGOE00334,Nest,Direct,desktop,65.9
+87837,2016-11-28,GGOE00112,Bags,Referral,desktop,112.68
+87869,2017-01-20,GGOE00016,Apparel,Referral,desktop,59.78
+87908,2016-12-10,GGOE00275,Electronics Accessories,Referral,desktop,33.55
+88113,2017-01-27,GGOE00317,Headgear,Organic Search,desktop,34.81
+88120,2016-11-28,GGOE00019,Apparel,Referral,desktop,59.47
+88151,2016-12-19,GGOE00129,Bags,Organic Search,desktop,114.29
+88174,2016-12-15,GGOE00010,Apparel,Social,desktop,26.55
+88264,2017-01-13,GGOE00143,Office,Organic Search,desktop,10.88
+88335,2016-11-26,GGOE00102,Bags,Organic Search,tablet,67.61
+88367,2017-01-26,GGOE00151,Office,Referral,mobile,17.24
+88504,2016-12-18,GGOE00079,Drinkware,Referral,desktop,8.64
+88689,2016-12-16,GGOE00021,Apparel,Organic Search,desktop,19.69
+88726,2017-01-10,GGOE00089,Drinkware,Organic Search,desktop,10.99
+88727,2017-01-23,GGOE00188,Lifestyle,Referral,desktop,23.38
+88839,2017-01-03,GGOE00318,Headgear,Referral,desktop,12.0
+88884,2016-11-11,GGOE00026,Apparel,Organic Search,desktop,34.38
+88939,2016-11-01,GGOE00331,Headgear,Organic Search,desktop,32.69
+88976,2016-12-11,GGOE00305,Headgear,Direct,desktop,8.9
+89212,2016-11-12,GGOE00346,Nest,Organic Search,desktop,147.53
+89214,2017-01-06,GGOE00010,Apparel,Referral,tablet,26.55
+89275,2017-01-10,GGOE00265,Electronics Accessories,Referral,desktop,14.31
+89380,2016-11-17,GGOE00006,Apparel,Direct,desktop,12.25
+89569,2017-01-30,GGOE00184,Lifestyle,Organic Search,desktop,10.48
+89630,2016-11-26,GGOE00020,Apparel,Organic Search,desktop,22.33
+89642,2016-12-28,GGOE00255,Electronics Accessories,Organic Search,desktop,34.61
+89689,2016-12-16,GGOE00041,Apparel,Referral,desktop,54.26
+89718,2016-11-19,GGOE00002,Apparel,Direct,desktop,49.23
+89785,2016-12-10,GGOE00285,Headgear,Referral,desktop,28.2
+89794,2016-12-30,GGOE00348,Nest,Affiliates,desktop,80.23
+89844,2016-12-31,GGOE00035,Apparel,Direct,mobile,21.63
+89872,2016-11-25,GGOE00207,Lifestyle,Organic Search,desktop,12.16
+90029,2017-01-01,GGOE00061,Drinkware,Direct,desktop,20.95
+90127,2016-11-14,GGOE00030,Apparel,Paid Search,desktop,35.85
+90166,2017-01-10,GGOE00264,Electronics Accessories,Referral,desktop,41.07
+90251,2016-12-09,GGOE00206,Lifestyle,Direct,desktop,78.03
+90258,2017-01-17,GGOE00068,Drinkware,Direct,desktop,29.2
+90316,2017-01-02,GGOE00040,Apparel,Organic Search,desktop,24.84
+90359,2017-01-31,GGOE00193,Lifestyle,Organic Search,desktop,63.59
+90428,2017-01-16,GGOE00323,Headgear,Organic Search,desktop,10.48
+90583,2016-12-06,GGOE00251,Electronics Accessories,Affiliates,desktop,13.39
+90589,2016-11-19,GGOE00045,Apparel,Organic Search,desktop,47.61
+90870,2017-01-30,GGOE00288,Headgear,Paid Search,desktop,12.98
+90941,2016-11-29,GGOE00170,Office,Referral,desktop,16.07
+91021,2016-11-14,GGOE00147,Office,Direct,desktop,13.47
+91068,2017-01-25,GGOE00075,Drinkware,Organic Search,desktop,26.13
+91107,2017-01-03,GGOE00127,Bags,Organic Search,desktop,29.73
+91147,2016-11-12,GGOE00072,Drinkware,Direct,desktop,26.85
+91177,2017-01-11,GGOE00072,Drinkware,Direct,desktop,26.85
+91212,2016-11-06,GGOE00024,Apparel,Referral,desktop,13.71
+91305,2017-01-18,GGOE00044,Apparel,Referral,desktop,42.71
+91328,2016-12-04,GGOE00005,Apparel,Referral,desktop,53.93
+91375,2017-01-26,GGOE00206,Lifestyle,Direct,desktop,78.03
+91430,2017-01-13,GGOE00027,Apparel,Organic Search,desktop,56.02
+91488,2017-01-29,GGOE00028,Apparel,Direct,mobile,42.2
+91564,2016-11-28,GGOE00117,Bags,Organic Search,desktop,56.08
+91668,2016-12-21,GGOE00170,Office,Referral,desktop,16.07
+91678,2016-12-20,GGOE00248,Electronics Accessories,Organic Search,desktop,18.61
+91692,2016-12-18,GGOE00262,Electronics Accessories,Direct,desktop,8.49
+91727,2016-11-17,GGOE00267,Electronics Accessories,Referral,desktop,37.98
+91747,2017-01-11,GGOE00035,Apparel,Organic Search,desktop,21.63
+91762,2016-12-11,GGOE00178,Office,Referral,tablet,3.72
+91802,2016-11-06,GGOE00004,Apparel,Referral,desktop,26.41
+91866,2016-12-22,GGOE00246,Electronics Accessories,Organic Search,desktop,37.88
+91917,2017-01-04,GGOE00329,Headgear,Direct,mobile,28.26
+92002,2016-11-04,GGOE00090,Drinkware,Social,desktop,5.95
+92018,2016-11-04,GGOE00161,Office,Organic Search,desktop,21.16
+92019,2016-11-06,GGOE00102,Bags,Direct,tablet,67.61
+92138,2017-01-30,GGOE00287,Headgear,Organic Search,tablet,11.4
+92151,2016-11-27,GGOE00046,Apparel,Organic Search,desktop,16.39
+92320,2016-12-25,GGOE00282,Electronics Accessories,Organic Search,desktop,34.81
+92461,2016-11-01,GGOE00315,Headgear,Direct,desktop,11.72
+92767,2017-01-04,GGOE00130,Bags,Direct,desktop,73.07
+92787,2016-11-06,GGOE00316,Headgear,Organic Search,desktop,28.53
+92833,2017-01-25,GGOE00107,Bags,Referral,desktop,49.1
+92877,2016-11-13,GGOE00260,Electronics Accessories,Organic Search,desktop,8.51
+93067,2016-11-10,GGOE00242,Electronics Accessories,Direct,desktop,7.25
+93153,2016-12-05,GGOE00005,Apparel,Referral,desktop,53.93
+93228,2017-01-18,GGOE00044,Apparel,Paid Search,mobile,42.71
+93274,2016-12-28,GGOE00314,Headgear,Direct,desktop,18.46
+93314,2017-01-12,GGOE00342,Nest,Referral,desktop,297.84
+93323,2017-01-11,GGOE00340,Nest,Direct,desktop,162.75
+93450,2016-11-02,GGOE00243,Electronics Accessories,Organic Search,desktop,18.98
+93616,2016-11-05,GGOE00211,Lifestyle,Referral,desktop,59.38
+93776,2017-01-10,GGOE00185,Lifestyle,Referral,desktop,9.66
+93855,2016-12-07,GGOE00075,Drinkware,Organic Search,desktop,26.13
+93860,2016-12-12,GGOE00352,Nest,Social,desktop,93.08
+93883,2017-01-04,GGOE00193,Lifestyle,Referral,desktop,63.59
+93940,2016-11-20,GGOE00333,Nest,Referral,desktop,241.28
+93944,2016-11-23,GGOE00302,Headgear,Referral,desktop,20.01
+94018,2017-01-18,GGOE00341,Nest,Organic Search,desktop,63.19
+94082,2016-12-01,GGOE00056,Drinkware,Referral,desktop,25.41
+94115,2017-01-22,GGOE00333,Nest,Direct,desktop,241.28
+94209,2016-12-11,GGOE00019,Apparel,Organic Search,desktop,59.47
+94248,2016-11-27,GGOE00124,Bags,Organic Search,desktop,34.91
+94266,2016-11-29,GGOE00312,Headgear,Organic Search,desktop,30.43
+94314,2017-01-12,GGOE00307,Headgear,Paid Search,mobile,22.64
+94325,2016-11-25,GGOE00110,Bags,Organic Search,desktop,110.01
+94358,2017-01-31,GGOE00076,Drinkware,Organic Search,desktop,28.62
+94421,2016-12-23,GGOE00325,Headgear,Direct,desktop,11.15
+94440,2016-11-13,GGOE00161,Office,Referral,desktop,21.16
+94522,2017-01-22,GGOE00038,Apparel,Paid Search,desktop,51.84
+94661,2016-12-24,GGOE00145,Office,Direct,desktop,2.65
+94719,2016-12-05,GGOE00036,Apparel,Organic Search,desktop,29.74
+94735,2017-01-30,GGOE00190,Lifestyle,Direct,desktop,11.2
+94919,2016-11-14,GGOE00333,Nest,Referral,desktop,241.28
+95019,2017-01-18,GGOE00309,Headgear,Referral,desktop,22.8
+95107,2016-11-30,GGOE00108,Bags,Direct,desktop,67.1
+95143,2017-01-05,GGOE00283,Headgear,Organic Search,desktop,15.19
+95216,2016-12-07,GGOE00265,Electronics Accessories,Social,desktop,14.31
+95237,2017-01-07,GGOE00033,Apparel,Organic Search,desktop,21.24
+95241,2016-12-18,GGOE00128,Bags,Organic Search,desktop,48.07
+95455,2016-11-11,GGOE00094,Drinkware,Referral,mobile,13.05
+95472,2016-11-26,GGOE00354,Nest,Organic Search,desktop,170.06
+95474,2017-01-14,GGOE00287,Headgear,Paid Search,desktop,11.4
+95563,2016-12-16,GGOE00267,Electronics Accessories,Direct,desktop,37.98
+95592,2016-12-13,GGOE00043,Apparel,Organic Search,desktop,52.66
+95663,2016-12-06,GGOE00170,Office,Paid Search,desktop,16.07
+95716,2016-12-08,GGOE00065,Drinkware,Paid Search,desktop,10.99
+95739,2017-01-14,GGOE00113,Bags,Organic Search,desktop,10.57
+95775,2016-12-29,GGOE00191,Lifestyle,Paid Search,desktop,56.41
+95824,2017-01-24,GGOE00126,Bags,Organic Search,desktop,49.94
+95994,2016-12-09,GGOE00087,Drinkware,Organic Search,desktop,14.41
+96012,2016-12-29,GGOE00324,Headgear,Direct,desktop,34.67
+96024,2016-11-10,GGOE00067,Drinkware,Organic Search,desktop,7.42
+96060,2016-12-13,GGOE00159,Office,Organic Search,desktop,6.11
+96103,2017-01-03,GGOE00185,Lifestyle,Direct,desktop,9.66
+96251,2016-11-12,GGOE00153,Office,Organic Search,desktop,16.11
+96329,2017-01-23,GGOE00211,Lifestyle,Affiliates,desktop,59.38
+96332,2016-11-29,GGOE00133,Bags,Referral,desktop,114.72
+96344,2016-11-04,GGOE00174,Office,Organic Search,desktop,10.88
+96354,2016-12-09,GGOE00254,Electronics Accessories,Direct,desktop,6.42
+96507,2017-01-20,GGOE00140,Bags,Referral,desktop,73.87
+96524,2016-12-29,GGOE00033,Apparel,Direct,desktop,21.24
+96747,2016-11-21,GGOE00293,Headgear,Direct,desktop,33.36
+96756,2016-11-05,GGOE00112,Bags,Referral,desktop,112.68
+96847,2016-12-08,GGOE00061,Drinkware,Direct,mobile,20.95
+97060,2016-11-09,GGOE00345,Nest,Direct,desktop,110.64
+97113,2016-12-18,GGOE00303,Headgear,Referral,desktop,18.21
+97354,2016-11-22,GGOE00241,Electronics Accessories,Direct,mobile,30.6
+97425,2016-12-11,GGOE00307,Headgear,Direct,desktop,22.64
+97442,2017-01-04,GGOE00275,Electronics Accessories,Organic Search,desktop,33.55
+97454,2016-12-19,GGOE00259,Electronics Accessories,Organic Search,desktop,35.05
+97483,2016-12-18,GGOE00074,Drinkware,Direct,desktop,8.29
+97567,2016-11-27,GGOE00054,Drinkware,Direct,desktop,13.08
+97604,2016-11-15,GGOE00082,Drinkware,Direct,desktop,18.81
+97623,2016-11-10,GGOE00052,Apparel,Organic Search,desktop,14.84
+97658,2017-01-18,GGOE00253,Electronics Accessories,Direct,desktop,22.21
+97771,2016-11-02,GGOE00119,Bags,Paid Search,tablet,11.57
+97874,2016-11-18,GGOE00352,Nest,Organic Search,desktop,93.08
+98131,2016-12-09,GGOE00260,Electronics Accessories,Paid Search,desktop,8.51
+98265,2016-11-26,GGOE00327,Headgear,Social,desktop,23.52
+98282,2017-01-20,GGOE00057,Drinkware,Direct,desktop,14.49
+98365,2016-12-25,GGOE00302,Headgear,Referral,desktop,20.01
+98416,2016-11-02,GGOE00117,Bags,Organic Search,desktop,56.08
+98456,2016-12-21,GGOE00326,Headgear,Paid Search,desktop,12.77
+98472,2016-12-28,GGOE00360,Nest,Organic Search,desktop,178.04
+98531,2016-12-22,GGOE00104,Bags,Direct,desktop,47.86
+98548,2017-01-28,GGOE00329,Headgear,Organic Search,desktop,28.26
+98615,2016-11-09,GGOE00033,Apparel,Direct,desktop,21.24
+98619,2016-11-25,GGOE00208,Lifestyle,Organic Search,desktop,35.77
+98717,2017-01-02,GGOE00226,Lifestyle,Referral,desktop,75.56
+98751,2016-12-11,GGOE00330,Headgear,Paid Search,desktop,13.15
+98762,2017-01-18,GGOE00147,Office,Direct,desktop,13.47
+98776,2016-11-16,GGOE00179,Lifestyle,Organic Search,desktop,73.77
+98784,2017-01-18,GGOE00286,Headgear,Organic Search,desktop,32.21
+98810,2016-12-15,GGOE00111,Bags,Organic Search,desktop,26.62
+98815,2016-12-06,GGOE00205,Lifestyle,Organic Search,desktop,86.73
+98852,2016-12-22,GGOE00048,Apparel,Organic Search,desktop,36.37
+98888,2017-01-31,GGOE00144,Office,Organic Search,desktop,23.15
+98987,2016-11-30,GGOE00277,Electronics Accessories,Organic Search,desktop,37.68
+99040,2017-01-08,GGOE00038,Apparel,Organic Search,desktop,51.84
+99298,2016-12-28,GGOE00177,Office,Direct,desktop,18.52
+99368,2016-12-13,GGOE00302,Headgear,Organic Search,desktop,20.01
+99476,2016-12-03,GGOE00181,Lifestyle,Direct,desktop,50.91
+99521,2016-11-15,GGOE00117,Bags,Paid Search,desktop,56.08
+99529,2016-11-10,GGOE00056,Drinkware,Organic Search,desktop,25.41
+99597,2016-11-13,GGOE00109,Bags,Organic Search,desktop,94.18
+99605,2016-12-26,GGOE00025,Apparel,Affiliates,mobile,36.71
+99626,2016-11-02,GGOE00148,Office,Referral,desktop,23.82
+99752,2016-12-07,GGOE00188,Lifestyle,Direct,desktop,23.38
+99795,2017-01-27,GGOE00182,Lifestyle,Organic Search,desktop,83.08
+99815,2016-11-26,GGOE00337,Nest,Organic Search,desktop,127.45
+99831,2017-01-05,GGOE00255,Electronics Accessories,Referral,desktop,34.61
+99841,2016-12-27,GGOE00034,Apparel,Referral,desktop,45.22
+100080,2016-12-28,GGOE00086,Drinkware,Organic Search,desktop,19.24
+100087,2017-01-08,GGOE00142,Bags,Direct,desktop,106.6
+100173,2017-01-19,GGOE00080,Drinkware,Organic Search,tablet,9.81
+100200,2016-12-13,GGOE00010,Apparel,Direct,desktop,26.55
+100341,2016-12-16,GGOE00207,Lifestyle,Direct,desktop,12.16
+100514,2016-12-06,GGOE00170,Office,Paid Search,desktop,16.07
+100569,2017-01-22,GGOE00169,Office,Organic Search,desktop,12.18
+100627,2017-01-18,GGOE00295,Headgear,Organic Search,desktop,28.98
+100693,2017-01-31,GGOE00097,Bags,Referral,desktop,13.34
+100713,2016-11-07,GGOE00303,Headgear,Organic Search,desktop,18.21
+100737,2017-01-08,GGOE00302,Headgear,Referral,mobile,20.01
+100904,2016-12-29,GGOE00031,Apparel,Referral,desktop,23.88
+100918,2016-11-17,GGOE00066,Drinkware,Organic Search,desktop,15.06
+100942,2016-11-20,GGOE00224,Lifestyle,Organic Search,desktop,62.22
+100968,2017-01-01,GGOE00248,Electronics Accessories,Organic Search,desktop,18.61
+101017,2017-01-29,GGOE00187,Lifestyle,Organic Search,desktop,28.38
+101095,2016-11-25,GGOE00086,Drinkware,Referral,desktop,19.24
+101114,2017-01-28,GGOE00049,Apparel,Paid Search,desktop,53.82
+101136,2017-01-20,GGOE00034,Apparel,Direct,desktop,45.22
+101153,2017-01-18,GGOE00283,Headgear,Referral,desktop,15.19
+101154,2016-11-18,GGOE00008,Apparel,Organic Search,desktop,50.26
+101188,2016-12-29,GGOE00227,Lifestyle,Organic Search,desktop,73.89
+101219,2016-11-15,GGOE00263,Electronics Accessories,Referral,desktop,6.41
+101291,2016-12-23,GGOE00146,Office,Referral,desktop,11.32
+101457,2017-01-22,GGOE00027,Apparel,Referral,desktop,56.02
+101465,2017-01-17,GGOE00090,Drinkware,Organic Search,desktop,5.95
+101569,2016-11-19,GGOE00346,Nest,Referral,desktop,147.53
+101671,2017-01-01,GGOE00010,Apparel,Referral,desktop,26.55
+101726,2017-01-06,GGOE00153,Office,Paid Search,tablet,16.11
+101744,2017-01-04,GGOE00061,Drinkware,Paid Search,desktop,20.95
+101755,2017-01-07,GGOE00357,Nest,Direct,desktop,115.47
+101820,2016-12-19,GGOE00066,Drinkware,Paid Search,mobile,15.06
+101829,2017-01-15,GGOE00155,Office,Direct,desktop,8.98
+101840,2016-12-14,GGOE00021,Apparel,Direct,desktop,19.69
+101932,2016-12-30,GGOE00277,Electronics Accessories,Organic Search,desktop,37.68
+101943,2016-11-08,GGOE00183,Lifestyle,Referral,desktop,11.83
+102119,2016-12-20,GGOE00283,Headgear,Paid Search,mobile,15.19
+102176,2017-01-19,GGOE00306,Headgear,Direct,tablet,30.8
+102200,2016-11-25,GGOE00036,Apparel,Paid Search,desktop,29.74
+102293,2016-12-02,GGOE00170,Office,Paid Search,desktop,16.07
+102328,2016-12-29,GGOE00253,Electronics Accessories,Organic Search,desktop,22.21
+102439,2017-01-19,GGOE00142,Bags,Organic Search,desktop,106.6
+102542,2016-12-21,GGOE00154,Office,Direct,desktop,24.32
+102852,2016-12-26,GGOE00101,Bags,Organic Search,desktop,57.1
+102862,2016-12-15,GGOE00057,Drinkware,Direct,desktop,14.49
+102911,2017-01-12,GGOE00349,Nest,Organic Search,desktop,57.26
+102945,2016-11-29,GGOE00124,Bags,Organic Search,desktop,34.91
+102990,2016-12-11,GGOE00045,Apparel,Referral,desktop,47.61
+103164,2017-01-18,GGOE00055,Drinkware,Direct,desktop,8.75
+103175,2017-01-14,GGOE00081,Drinkware,Direct,desktop,28.2
+103247,2016-12-29,GGOE00041,Apparel,Affiliates,desktop,54.26
+103611,2017-01-07,GGOE00237,Electronics Accessories,Organic Search,desktop,42.68
+103667,2016-11-02,GGOE00105,Bags,Organic Search,desktop,74.93
+103755,2017-01-29,GGOE00208,Lifestyle,Direct,mobile,35.77
+103796,2016-11-03,GGOE00136,Bags,Organic Search,desktop,66.71
+103840,2016-12-08,GGOE00233,Electronics Accessories,Organic Search,tablet,4.12
+103890,2017-01-02,GGOE00154,Office,Organic Search,desktop,24.32
+103894,2016-11-26,GGOE00330,Headgear,Referral,mobile,13.15
+103936,2016-12-05,GGOE00125,Bags,Organic Search,desktop,31.84
+104206,2016-11-29,GGOE00254,Electronics Accessories,Organic Search,desktop,6.42
+104219,2016-11-26,GGOE00330,Headgear,Direct,desktop,13.15
+104451,2017-01-22,GGOE00039,Apparel,Direct,desktop,19.41
+104466,2016-11-17,GGOE00082,Drinkware,Organic Search,desktop,18.81
+104576,2016-12-25,GGOE00211,Lifestyle,Direct,tablet,59.38
+104622,2016-12-02,GGOE00349,Nest,Referral,desktop,57.26
+104737,2016-12-22,GGOE00064,Drinkware,Direct,desktop,16.01
+104756,2016-12-09,GGOE00044,Apparel,Organic Search,desktop,42.71
+104835,2016-12-18,GGOE00317,Headgear,Referral,desktop,34.81
+104951,2016-11-18,GGOE00051,Apparel,Organic Search,desktop,40.71
+105029,2016-12-28,GGOE00009,Apparel,Referral,desktop,34.46
+105061,2016-11-24,GGOE00037,Apparel,Organic Search,tablet,12.18
+105067,2016-12-03,GGOE00140,Bags,Paid Search,desktop,73.87
+105294,2016-12-24,GGOE00168,Office,Paid Search,mobile,24.07
+105370,2017-01-18,GGOE00326,Headgear,Organic Search,desktop,12.77
+105453,2017-01-08,GGOE00318,Headgear,Paid Search,desktop,12.0
+105468,2016-12-28,GGOE00226,Lifestyle,Paid Search,desktop,75.56
+105750,2017-01-08,GGOE00125,Bags,Organic Search,desktop,31.84
+105752,2016-11-16,GGOE00025,Apparel,Paid Search,desktop,36.71
+105810,2016-12-09,GGOE00239,Electronics Accessories,Organic Search,desktop,13.62
+105831,2017-01-31,GGOE00337,Nest,Direct,desktop,127.45
+105879,2017-01-28,GGOE00142,Bags,Direct,desktop,106.6
+105896,2016-11-20,GGOE00061,Drinkware,Paid Search,desktop,20.95
+105916,2016-11-24,GGOE00090,Drinkware,Direct,desktop,5.95
+105920,2016-11-30,GGOE00299,Headgear,Paid Search,desktop,28.51
+105929,2017-01-09,GGOE00293,Headgear,Referral,desktop,33.36
+105953,2016-12-25,GGOE00298,Headgear,Direct,desktop,12.98
+106067,2016-11-16,GGOE00252,Electronics Accessories,Referral,desktop,16.85
+106128,2017-01-05,GGOE00253,Electronics Accessories,Organic Search,desktop,22.21
+106157,2016-12-19,GGOE00290,Headgear,Direct,desktop,25.4
+106158,2016-11-28,GGOE00357,Nest,Referral,desktop,115.47
+106173,2016-12-08,GGOE00356,Nest,Organic Search,desktop,216.47
+106193,2016-12-03,GGOE00098,Bags,Organic Search,desktop,23.52
+106475,2017-01-14,GGOE00054,Drinkware,Referral,desktop,13.08
+106522,2017-01-30,GGOE00206,Lifestyle,Organic Search,tablet,78.03
+106723,2016-12-08,GGOE00078,Drinkware,Social,desktop,19.24
+106740,2016-11-21,GGOE00209,Lifestyle,Paid Search,desktop,34.08
+106752,2017-01-29,GGOE00013,Apparel,Organic Search,desktop,33.36
+106808,2016-12-25,GGOE00042,Apparel,Organic Search,desktop,36.47
+107116,2016-12-16,GGOE00086,Drinkware,Organic Search,desktop,19.24
+107258,2016-12-14,GGOE00169,Office,Direct,desktop,12.18
+107316,2016-11-17,GGOE00224,Lifestyle,Paid Search,desktop,62.22
+107429,2016-12-12,GGOE00208,Lifestyle,Organic Search,desktop,35.77
+107675,2016-11-29,GGOE00274,Electronics Accessories,Organic Search,desktop,7.07
+107757,2016-12-13,GGOE00085,Drinkware,Social,desktop,21.04
+107887,2016-11-26,GGOE00042,Apparel,Referral,desktop,36.47
+107960,2017-01-21,GGOE00311,Headgear,Organic Search,desktop,18.3
+108129,2016-11-04,GGOE00240,Electronics Accessories,Referral,desktop,22.17
+108218,2017-01-01,GGOE00298,Headgear,Referral,desktop,12.98
+108336,2017-01-27,GGOE00133,Bags,Organic Search,mobile,114.72
+108365,2016-11-20,GGOE00168,Office,Referral,desktop,24.07
+108411,2017-01-09,GGOE00230,Lifestyle,Direct,desktop,79.12
+108492,2016-11-20,GGOE00070,Drinkware,Organic Search,desktop,21.79
+108511,2016-11-16,GGOE00161,Office,Organic Search,mobile,21.16
+108653,2017-01-03,GGOE00313,Headgear,Direct,desktop,32.83
+109056,2017-01-21,GGOE00285,Headgear,Organic Search,desktop,28.2
+109094,2016-11-01,GGOE00132,Bags,Direct,desktop,39.87
+109104,2017-01-03,GGOE00181,Lifestyle,Organic Search,desktop,50.91
+109112,2016-12-12,GGOE00326,Headgear,Organic Search,desktop,12.77
+109136,2016-11-12,GGOE00184,Lifestyle,Direct,desktop,10.48
+109204,2017-01-05,GGOE00031,Apparel,Direct,desktop,23.88
+109216,2017-01-22,GGOE00144,Office,Organic Search,desktop,23.15
+109248,2016-11-17,GGOE00130,Bags,Organic Search,desktop,73.07
+109296,2016-12-28,GGOE00121,Bags,Direct,desktop,97.23
+109406,2017-01-05,GGOE00118,Bags,Direct,desktop,99.68
+109636,2016-11-11,GGOE00168,Office,Referral,desktop,24.07
+109639,2016-11-02,GGOE00102,Bags,Direct,desktop,67.61
+109683,2016-11-03,GGOE00005,Apparel,Affiliates,desktop,53.93
+109690,2017-01-18,GGOE00060,Drinkware,Organic Search,desktop,20.13
+109704,2017-01-15,GGOE00090,Drinkware,Organic Search,desktop,5.95
+109712,2017-01-26,GGOE00337,Nest,Organic Search,desktop,127.45
+109952,2017-01-16,GGOE00200,Lifestyle,Paid Search,mobile,58.08
+109985,2016-12-21,GGOE00034,Apparel,Organic Search,mobile,45.22
+109999,2016-12-23,GGOE00278,Electronics Accessories,Referral,desktop,31.32
+110043,2016-12-13,GGOE00066,Drinkware,Organic Search,desktop,15.06
+110101,2016-12-08,GGOE00137,Bags,Referral,desktop,67.33
+110137,2016-11-28,GGOE00057,Drinkware,Referral,desktop,14.49
+110228,2016-12-03,GGOE00121,Bags,Organic Search,desktop,97.23
+110295,2017-01-28,GGOE00089,Drinkware,Organic Search,desktop,10.99
+110428,2016-11-01,GGOE00018,Apparel,Referral,mobile,41.86
+110443,2016-12-27,GGOE00009,Apparel,Referral,desktop,34.46
+110454,2016-11-12,GGOE00127,Bags,Organic Search,desktop,29.73
+110513,2016-11-18,GGOE00269,Electronics Accessories,Direct,desktop,10.86
+110559,2017-01-12,GGOE00330,Headgear,Referral,desktop,13.15
+110579,2017-01-06,GGOE00059,Drinkware,Organic Search,desktop,19.75
+110648,2016-12-23,GGOE00284,Headgear,Paid Search,desktop,22.48
+110663,2016-11-12,GGOE00146,Office,Organic Search,tablet,11.32
+110673,2016-11-08,GGOE00164,Office,Organic Search,desktop,12.5
+110688,2016-12-25,GGOE00266,Electronics Accessories,Referral,desktop,15.87
+110693,2016-11-25,GGOE00301,Headgear,Organic Search,tablet,27.47
+110891,2016-11-21,GGOE00315,Headgear,Organic Search,desktop,11.72
+111126,2016-11-12,GGOE00114,Bags,Organic Search,desktop,92.83
+111131,2016-12-01,GGOE00101,Bags,Referral,desktop,57.1
+111148,2016-12-30,GGOE00312,Headgear,Organic Search,desktop,30.43
+111200,2016-12-30,GGOE00284,Headgear,Paid Search,mobile,22.48
+111213,2017-01-01,GGOE00290,Headgear,Organic Search,desktop,25.4
+111257,2016-11-27,GGOE00136,Bags,Direct,desktop,66.71
+111262,2017-01-09,GGOE00332,Nest,Referral,desktop,103.3
+111291,2017-01-08,GGOE00259,Electronics Accessories,Organic Search,desktop,35.05
+111391,2016-12-07,GGOE00281,Electronics Accessories,Direct,desktop,24.79
+111399,2016-12-31,GGOE00220,Lifestyle,Direct,desktop,55.04
+111491,2016-12-14,GGOE00293,Headgear,Direct,desktop,33.36
+111529,2016-11-21,GGOE00060,Drinkware,Direct,desktop,20.13
+111711,2016-11-22,GGOE00217,Lifestyle,Organic Search,desktop,70.88
+111837,2017-01-07,GGOE00120,Bags,Referral,desktop,79.13
+111867,2017-01-22,GGOE00085,Drinkware,Organic Search,desktop,21.04
+112058,2016-11-24,GGOE00300,Headgear,Organic Search,desktop,28.46
+112235,2016-11-17,GGOE00279,Electronics Accessories,Direct,desktop,18.57
+112276,2016-12-10,GGOE00021,Apparel,Organic Search,desktop,19.69
+112440,2016-11-08,GGOE00037,Apparel,Organic Search,desktop,12.18
+112444,2017-01-09,GGOE00287,Headgear,Organic Search,desktop,11.4
+112590,2017-01-21,GGOE00107,Bags,Referral,mobile,49.1
+112598,2016-12-16,GGOE00181,Lifestyle,Organic Search,desktop,50.91
+112826,2017-01-21,GGOE00040,Apparel,Referral,desktop,24.84
+112843,2016-11-03,GGOE00247,Electronics Accessories,Organic Search,desktop,18.83
+112915,2017-01-02,GGOE00155,Office,Paid Search,desktop,8.98
+112960,2017-01-18,GGOE00019,Apparel,Paid Search,mobile,59.47
+113132,2017-01-15,GGOE00124,Bags,Organic Search,desktop,34.91
+113151,2016-12-12,GGOE00182,Lifestyle,Referral,desktop,83.08
+113162,2016-12-02,GGOE00120,Bags,Direct,desktop,79.13
+113278,2016-11-03,GGOE00134,Bags,Paid Search,desktop,58.89
+113369,2016-12-21,GGOE00262,Electronics Accessories,Direct,desktop,8.49
+113410,2016-12-26,GGOE00261,Electronics Accessories,Organic Search,desktop,8.59
+113549,2016-11-04,GGOE00175,Office,Direct,desktop,19.34
+113591,2016-12-16,GGOE00319,Headgear,Direct,desktop,27.24
+113625,2016-11-28,GGOE00036,Apparel,Paid Search,desktop,29.74
+113627,2016-12-17,GGOE00099,Bags,Referral,desktop,116.39
+113732,2016-11-21,GGOE00047,Apparel,Direct,desktop,37.97
+113809,2016-11-19,GGOE00332,Nest,Organic Search,mobile,103.3
+113880,2016-12-08,GGOE00007,Apparel,Direct,desktop,51.42
+113888,2017-01-06,GGOE00007,Apparel,Paid Search,desktop,51.42
+113934,2016-11-26,GGOE00150,Office,Organic Search,desktop,20.34
+113990,2016-12-05,GGOE00018,Apparel,Organic Search,desktop,41.86
+114008,2016-11-22,GGOE00238,Electronics Accessories,Referral,desktop,18.93
+114028,2017-01-07,GGOE00217,Lifestyle,Organic Search,desktop,70.88
+114050,2017-01-22,GGOE00359,Nest,Organic Search,desktop,119.74
+114086,2017-01-07,GGOE00046,Apparel,Organic Search,desktop,16.39
+114128,2016-11-11,GGOE00361,Nest,Referral,desktop,206.13
+114180,2016-11-26,GGOE00115,Bags,Direct,desktop,99.16
+114345,2017-01-19,GGOE00133,Bags,Organic Search,desktop,114.72
+114462,2016-11-07,GGOE00350,Nest,Organic Search,desktop,174.83
+114533,2017-01-04,GGOE00112,Bags,Organic Search,desktop,112.68
+114570,2016-11-14,GGOE00164,Office,Direct,desktop,12.5
+114634,2016-12-14,GGOE00328,Headgear,Organic Search,desktop,20.05
+114755,2016-11-26,GGOE00172,Office,Organic Search,desktop,5.41
+114861,2016-12-29,GGOE00313,Headgear,Direct,desktop,32.83
+114868,2017-01-29,GGOE00235,Electronics Accessories,Referral,desktop,12.02
+114877,2017-01-14,GGOE00266,Electronics Accessories,Organic Search,desktop,15.87
+114937,2016-11-20,GGOE00123,Bags,Direct,mobile,89.84
+115072,2016-11-11,GGOE00262,Electronics Accessories,Organic Search,desktop,8.49
+115300,2016-11-26,GGOE00177,Office,Direct,desktop,18.52
+115529,2016-11-18,GGOE00093,Drinkware,Direct,desktop,18.69
+115854,2016-12-17,GGOE00230,Lifestyle,Organic Search,desktop,79.12
+115893,2017-01-22,GGOE00323,Headgear,Referral,desktop,10.48
+116034,2017-01-08,GGOE00123,Bags,Display,desktop,89.84
+116266,2016-12-24,GGOE00262,Electronics Accessories,Direct,desktop,8.49
+116426,2016-11-26,GGOE00093,Drinkware,Organic Search,desktop,18.69
+116550,2016-11-28,GGOE00004,Apparel,Direct,mobile,26.41
+116665,2016-12-24,GGOE00119,Bags,Direct,desktop,11.57
+116740,2016-12-06,GGOE00282,Electronics Accessories,Referral,desktop,34.81
+116817,2016-12-05,GGOE00046,Apparel,Organic Search,desktop,16.39
+116913,2016-12-10,GGOE00318,Headgear,Paid Search,desktop,12.0
+116941,2016-11-24,GGOE00015,Apparel,Direct,desktop,38.57
+116967,2016-11-13,GGOE00061,Drinkware,Organic Search,desktop,20.95
+116988,2016-11-15,GGOE00303,Headgear,Organic Search,desktop,18.21
+117123,2016-12-27,GGOE00128,Bags,Organic Search,desktop,48.07
+117152,2016-12-08,GGOE00166,Office,Organic Search,desktop,16.82
+117193,2016-11-16,GGOE00196,Lifestyle,Social,desktop,84.94
+117247,2016-12-22,GGOE00071,Drinkware,Referral,desktop,12.51
+117312,2017-01-09,GGOE00052,Apparel,Direct,desktop,14.84
+117412,2016-12-18,GGOE00017,Apparel,Organic Search,desktop,50.05
+117513,2016-11-29,GGOE00016,Apparel,Direct,mobile,59.78
+117628,2016-12-05,GGOE00092,Drinkware,Organic Search,desktop,16.69
+117714,2016-12-28,GGOE00214,Lifestyle,Referral,desktop,78.75
+117769,2017-01-27,GGOE00272,Electronics Accessories,Organic Search,desktop,18.77
+117800,2016-11-18,GGOE00089,Drinkware,Organic Search,desktop,10.99
+117836,2016-12-24,GGOE00146,Office,Referral,desktop,11.32
+117845,2016-11-05,GGOE00215,Lifestyle,Organic Search,desktop,73.36
+117900,2016-12-27,GGOE00023,Apparel,Organic Search,desktop,14.11
+117921,2016-12-29,GGOE00285,Headgear,Organic Search,desktop,28.2
+117930,2016-12-01,GGOE00183,Lifestyle,Direct,desktop,11.83
+118150,2016-12-05,GGOE00257,Electronics Accessories,Direct,desktop,15.59
+118224,2016-11-21,GGOE00101,Bags,Organic Search,desktop,57.1
+118336,2016-11-09,GGOE00229,Lifestyle,Direct,desktop,67.21
+118376,2016-11-29,GGOE00065,Drinkware,Referral,mobile,10.99
+118498,2016-12-15,GGOE00210,Lifestyle,Direct,desktop,17.24
+118765,2017-01-01,GGOE00138,Bags,Organic Search,desktop,108.62
+118773,2017-01-13,GGOE00269,Electronics Accessories,Referral,desktop,10.86
+118847,2017-01-09,GGOE00322,Headgear,Organic Search,desktop,11.33
+118849,2016-12-24,GGOE00137,Bags,Direct,desktop,67.33
+118894,2016-11-08,GGOE00060,Drinkware,Organic Search,desktop,20.13
+118956,2016-11-10,GGOE00096,Drinkware,Organic Search,desktop,5.63
+118969,2016-12-20,GGOE00116,Bags,Organic Search,desktop,25.04
+119010,2016-12-22,GGOE00182,Lifestyle,Referral,desktop,83.08
+119049,2016-12-10,GGOE00332,Nest,Direct,desktop,103.3
+119164,2016-11-06,GGOE00227,Lifestyle,Paid Search,mobile,73.89
+119270,2017-01-19,GGOE00308,Headgear,Paid Search,desktop,18.46
+119300,2017-01-06,GGOE00321,Headgear,Direct,desktop,32.86
+119428,2016-11-06,GGOE00248,Electronics Accessories,Organic Search,mobile,18.61
+119446,2016-11-02,GGOE00138,Bags,Organic Search,desktop,108.62
+119542,2016-12-02,GGOE00204,Lifestyle,Organic Search,desktop,73.74
+119559,2016-11-26,GGOE00180,Lifestyle,Organic Search,desktop,79.97
+119627,2017-01-28,GGOE00160,Office,Organic Search,desktop,22.97
+119655,2016-12-10,GGOE00200,Lifestyle,Organic Search,desktop,58.08
+119668,2016-11-01,GGOE00178,Office,Referral,desktop,3.72
+119672,2016-12-21,GGOE00229,Lifestyle,Organic Search,desktop,67.21
+119738,2017-01-16,GGOE00227,Lifestyle,Organic Search,desktop,73.89
+119760,2016-12-27,GGOE00274,Electronics Accessories,Organic Search,desktop,7.07
+120140,2017-01-07,GGOE00165,Office,Organic Search,desktop,15.27
+120203,2016-11-30,GGOE00304,Headgear,Paid Search,desktop,19.33
+120228,2017-01-29,GGOE00051,Apparel,Social,desktop,40.71
+120233,2017-01-20,GGOE00239,Electronics Accessories,Organic Search,desktop,13.62
+120478,2017-01-31,GGOE00145,Office,Referral,desktop,2.65
+120588,2016-12-21,GGOE00123,Bags,Referral,desktop,89.84
+120590,2016-12-10,GGOE00217,Lifestyle,Affiliates,desktop,70.88
+120651,2017-01-31,GGOE00274,Electronics Accessories,Affiliates,tablet,7.07
+120659,2016-11-02,GGOE00220,Lifestyle,Organic Search,mobile,55.04
+120865,2016-12-20,GGOE00007,Apparel,Display,desktop,51.42
+120899,2017-01-20,GGOE00212,Lifestyle,Referral,desktop,73.39
+120949,2017-01-03,GGOE00352,Nest,Affiliates,desktop,93.08
+121283,2016-11-16,GGOE00218,Lifestyle,Direct,desktop,80.37
+121312,2017-01-30,GGOE00116,Bags,Organic Search,desktop,25.04
+121404,2016-12-26,GGOE00015,Apparel,Organic Search,desktop,38.57
+121566,2016-11-05,GGOE00189,Lifestyle,Organic Search,desktop,54.5
+121725,2016-12-08,GGOE00111,Bags,Organic Search,desktop,26.62
+121762,2017-01-18,GGOE00138,Bags,Organic Search,mobile,108.62
+121828,2017-01-05,GGOE00218,Lifestyle,Paid Search,desktop,80.37
+121921,2017-01-08,GGOE00307,Headgear,Organic Search,desktop,22.64
+121985,2016-11-24,GGOE00124,Bags,Social,desktop,34.91
+122106,2016-12-27,GGOE00324,Headgear,Direct,desktop,34.67
+122144,2016-11-26,GGOE00039,Apparel,Organic Search,desktop,19.41
+122205,2017-01-27,GGOE00021,Apparel,Organic Search,desktop,19.69
+122383,2017-01-29,GGOE00074,Drinkware,Direct,desktop,8.29
+122403,2016-12-09,GGOE00248,Electronics Accessories,Organic Search,desktop,18.61
+122500,2016-12-28,GGOE00122,Bags,Referral,desktop,66.43
+122586,2016-11-04,GGOE00163,Office,Direct,desktop,15.49
+122650,2017-01-07,GGOE00119,Bags,Direct,desktop,11.57
+122742,2017-01-11,GGOE00083,Drinkware,Referral,desktop,9.51
+122813,2016-11-13,GGOE00128,Bags,Organic Search,desktop,48.07
+122918,2016-12-12,GGOE00236,Electronics Accessories,Organic Search,desktop,26.68
+122968,2016-12-19,GGOE00344,Nest,Organic Search,desktop,278.08
+123041,2016-12-26,GGOE00070,Drinkware,Direct,mobile,21.79
+123075,2016-12-03,GGOE00260,Electronics Accessories,Organic Search,desktop,8.51
+123104,2016-12-22,GGOE00003,Apparel,Paid Search,desktop,22.81
+123112,2016-12-19,GGOE00332,Nest,Direct,desktop,103.3
+123237,2016-12-28,GGOE00281,Electronics Accessories,Referral,mobile,24.79
+123265,2017-01-11,GGOE00342,Nest,Direct,desktop,297.84
+123308,2016-11-28,GGOE00269,Electronics Accessories,Paid Search,desktop,10.86
+123370,2016-12-21,GGOE00342,Nest,Organic Search,desktop,297.84
+123506,2016-12-01,GGOE00143,Office,Direct,desktop,10.88
+123576,2016-12-05,GGOE00051,Apparel,Organic Search,desktop,40.71
+123639,2017-01-22,GGOE00074,Drinkware,Organic Search,desktop,8.29
+123677,2016-11-22,GGOE00077,Drinkware,Organic Search,desktop,27.6
+123819,2016-12-31,GGOE00073,Drinkware,Referral,mobile,21.56
+123895,2017-01-24,GGOE00352,Nest,Organic Search,desktop,93.08
+123901,2017-01-17,GGOE00056,Drinkware,Organic Search,desktop,25.41
+123964,2016-12-21,GGOE00229,Lifestyle,Referral,desktop,67.21
+124066,2016-12-21,GGOE00279,Electronics Accessories,Referral,desktop,18.57
+124326,2017-01-23,GGOE00201,Lifestyle,Direct,desktop,23.68
+124327,2017-01-20,GGOE00134,Bags,Organic Search,desktop,58.89
+124458,2016-12-10,GGOE00043,Apparel,Affiliates,desktop,52.66
+124487,2016-11-23,GGOE00171,Office,Direct,desktop,16.25
+124555,2016-11-28,GGOE00001,Apparel,Organic Search,desktop,55.07
+124647,2016-12-11,GGOE00212,Lifestyle,Organic Search,desktop,73.39
+124736,2016-11-20,GGOE00124,Bags,Direct,desktop,34.91
+124761,2016-12-04,GGOE00158,Office,Organic Search,desktop,2.22
+124872,2017-01-24,GGOE00029,Apparel,Organic Search,desktop,36.68
+125101,2017-01-30,GGOE00064,Drinkware,Organic Search,tablet,16.01
+125129,2016-11-20,GGOE00252,Electronics Accessories,Direct,desktop,16.85
+125261,2016-12-22,GGOE00274,Electronics Accessories,Referral,desktop,7.07
+125267,2016-11-16,GGOE00192,Lifestyle,Organic Search,desktop,21.61
+125269,2016-12-16,GGOE00098,Bags,Direct,desktop,23.52
+125284,2016-12-08,GGOE00164,Office,Organic Search,desktop,12.5
+125291,2016-12-10,GGOE00180,Lifestyle,Affiliates,desktop,79.97
+125312,2017-01-13,GGOE00271,Electronics Accessories,Paid Search,desktop,40.12
+125329,2016-11-18,GGOE00171,Office,Organic Search,desktop,16.25
+125531,2016-11-24,GGOE00271,Electronics Accessories,Direct,desktop,40.12
+125572,2016-12-03,GGOE00325,Headgear,Direct,desktop,11.15
+125646,2016-12-20,GGOE00193,Lifestyle,Referral,desktop,63.59
+125758,2017-01-06,GGOE00062,Drinkware,Organic Search,desktop,21.91
+125867,2016-11-26,GGOE00284,Headgear,Organic Search,desktop,22.48
+125881,2017-01-26,GGOE00288,Headgear,Referral,desktop,12.98
+125990,2016-11-29,GGOE00023,Apparel,Direct,desktop,14.11
+126117,2016-12-16,GGOE00171,Office,Organic Search,desktop,16.25
+126202,2016-11-18,GGOE00071,Drinkware,Paid Search,desktop,12.51
+126272,2017-01-30,GGOE00057,Drinkware,Direct,desktop,14.49
+126406,2016-11-02,GGOE00279,Electronics Accessories,Organic Search,desktop,18.57
+126425,2016-12-27,GGOE00320,Headgear,Referral,mobile,30.28
+126508,2016-11-29,GGOE00165,Office,Direct,desktop,15.27
+126612,2017-01-19,GGOE00097,Bags,Organic Search,desktop,13.34
+126753,2016-12-04,GGOE00205,Lifestyle,Referral,desktop,86.73
+126835,2017-01-25,GGOE00333,Nest,Referral,desktop,241.28
+126956,2016-11-18,GGOE00205,Lifestyle,Referral,desktop,86.73
+127133,2016-11-13,GGOE00035,Apparel,Direct,desktop,21.63
+127187,2016-11-01,GGOE00040,Apparel,Organic Search,desktop,24.84
+127202,2016-11-08,GGOE00206,Lifestyle,Organic Search,desktop,78.03
+127312,2016-12-11,GGOE00007,Apparel,Organic Search,desktop,51.42
+127322,2016-12-27,GGOE00361,Nest,Organic Search,desktop,206.13
+127351,2016-11-10,GGOE00130,Bags,Paid Search,mobile,73.07
+127381,2016-11-27,GGOE00246,Electronics Accessories,Direct,mobile,37.88
+127417,2016-12-19,GGOE00234,Electronics Accessories,Organic Search,desktop,30.33
+127436,2017-01-21,GGOE00002,Apparel,Organic Search,tablet,49.23
+127457,2016-11-07,GGOE00289,Headgear,Organic Search,desktop,29.59
+127464,2016-11-10,GGOE00065,Drinkware,Referral,mobile,10.99
+127544,2017-01-30,GGOE00357,Nest,Display,desktop,115.47
+127608,2017-01-12,GGOE00014,Apparel,Organic Search,desktop,36.22
+127816,2016-11-21,GGOE00111,Bags,Organic Search,desktop,26.62
+127828,2017-01-01,GGOE00179,Lifestyle,Social,desktop,73.77
+127832,2017-01-17,GGOE00114,Bags,Direct,desktop,92.83
+127854,2017-01-25,GGOE00187,Lifestyle,Referral,desktop,28.38
+127988,2017-01-31,GGOE00213,Lifestyle,Referral,desktop,33.73
+128260,2016-12-16,GGOE00281,Electronics Accessories,Organic Search,desktop,24.79
+128348,2016-11-14,GGOE00255,Electronics Accessories,Referral,desktop,34.61
+128386,2017-01-08,GGOE00126,Bags,Direct,desktop,49.94
+128425,2017-01-20,GGOE00272,Electronics Accessories,Social,desktop,18.77
+128537,2016-12-29,GGOE00171,Office,Organic Search,desktop,16.25
+128563,2017-01-09,GGOE00237,Electronics Accessories,Organic Search,desktop,42.68
+128820,2017-01-07,GGOE00319,Headgear,Organic Search,desktop,27.24
+128881,2016-11-01,GGOE00079,Drinkware,Organic Search,desktop,8.64
+128904,2016-11-01,GGOE00051,Apparel,Referral,mobile,40.71
+128908,2016-11-28,GGOE00137,Bags,Paid Search,desktop,67.33
+128914,2016-11-04,GGOE00253,Electronics Accessories,Affiliates,desktop,22.21
+128920,2016-12-24,GGOE00144,Office,Referral,desktop,23.15
+128953,2017-01-27,GGOE00229,Lifestyle,Direct,desktop,67.21
+129029,2016-11-30,GGOE00002,Apparel,Direct,desktop,49.23
+129129,2016-11-03,GGOE00252,Electronics Accessories,Direct,desktop,16.85
+129153,2016-11-25,GGOE00340,Nest,Social,tablet,162.75
+129316,2017-01-25,GGOE00249,Electronics Accessories,Organic Search,desktop,25.66
+129355,2017-01-04,GGOE00091,Drinkware,Display,desktop,26.91
+129575,2016-12-30,GGOE00290,Headgear,Direct,desktop,25.4
+129692,2016-12-17,GGOE00222,Lifestyle,Referral,desktop,57.97
+129698,2016-12-01,GGOE00239,Electronics Accessories,Direct,desktop,13.62
+129849,2016-11-21,GGOE00170,Office,Organic Search,desktop,16.07
+130029,2016-11-13,GGOE00264,Electronics Accessories,Organic Search,desktop,41.07
+130119,2016-11-02,GGOE00157,Office,Organic Search,desktop,5.87
+130208,2016-12-10,GGOE00049,Apparel,Organic Search,desktop,53.82
+130225,2016-12-30,GGOE00082,Drinkware,Organic Search,desktop,18.81
+130395,2016-12-06,GGOE00206,Lifestyle,Organic Search,mobile,78.03
+130425,2017-01-06,GGOE00175,Office,Social,desktop,19.34
+130473,2016-11-01,GGOE00201,Lifestyle,Direct,desktop,23.68
+130538,2016-11-07,GGOE00212,Lifestyle,Referral,desktop,73.39
+130596,2017-01-13,GGOE00037,Apparel,Social,desktop,12.18
+130602,2017-01-02,GGOE00356,Nest,Organic Search,desktop,216.47
+130642,2017-01-03,GGOE00133,Bags,Referral,desktop,114.72
+130671,2017-01-11,GGOE00075,Drinkware,Organic Search,desktop,26.13
+130698,2016-11-24,GGOE00213,Lifestyle,Organic Search,desktop,33.73
+130981,2017-01-07,GGOE00349,Nest,Organic Search,desktop,57.26
+130982,2016-12-04,GGOE00110,Bags,Social,desktop,110.01
+131003,2017-01-05,GGOE00232,Electronics Accessories,Direct,desktop,9.78
+131024,2016-12-14,GGOE00171,Office,Referral,desktop,16.25
+131085,2017-01-28,GGOE00139,Bags,Direct,desktop,91.7
+131228,2017-01-23,GGOE00017,Apparel,Direct,desktop,50.05
+131253,2016-11-25,GGOE00119,Bags,Organic Search,desktop,11.57
+131288,2017-01-28,GGOE00148,Office,Direct,desktop,23.82
+131345,2016-11-18,GGOE00240,Electronics Accessories,Organic Search,mobile,22.17
+131386,2017-01-02,GGOE00174,Office,Social,desktop,10.88
+131414,2016-11-15,GGOE00171,Office,Referral,desktop,16.25
+131506,2016-12-06,GGOE00004,Apparel,Organic Search,desktop,26.41
+131540,2017-01-27,GGOE00270,Electronics Accessories,Direct,desktop,21.26
+131566,2017-01-01,GGOE00323,Headgear,Organic Search,desktop,10.48
+131592,2017-01-31,GGOE00134,Bags,Direct,desktop,58.89
+131705,2016-12-25,GGOE00255,Electronics Accessories,Direct,desktop,34.61
+131709,2016-12-24,GGOE00289,Headgear,Organic Search,desktop,29.59
+131804,2016-11-15,GGOE00210,Lifestyle,Paid Search,mobile,17.24
+131960,2017-01-07,GGOE00266,Electronics Accessories,Organic Search,desktop,15.87
+132059,2016-12-15,GGOE00257,Electronics Accessories,Organic Search,desktop,15.59
+132060,2017-01-03,GGOE00266,Electronics Accessories,Referral,desktop,15.87
+132122,2016-11-29,GGOE00236,Electronics Accessories,Organic Search,desktop,26.68
+132132,2017-01-24,GGOE00145,Office,Organic Search,desktop,2.65
+132231,2016-12-20,GGOE00268,Electronics Accessories,Referral,desktop,29.04
+132396,2017-01-16,GGOE00216,Lifestyle,Direct,desktop,18.59
+132526,2017-01-31,GGOE00121,Bags,Direct,desktop,97.23
+132609,2016-11-07,GGOE00180,Lifestyle,Social,desktop,79.97
+132685,2016-12-01,GGOE00092,Drinkware,Organic Search,desktop,16.69
+132726,2016-12-23,GGOE00181,Lifestyle,Referral,mobile,50.91
+132759,2016-12-19,GGOE00015,Apparel,Organic Search,desktop,38.57
+132789,2016-12-15,GGOE00270,Electronics Accessories,Organic Search,desktop,21.26
+132810,2017-01-16,GGOE00118,Bags,Organic Search,desktop,99.68
+132949,2016-11-04,GGOE00333,Nest,Organic Search,desktop,241.28
+132957,2016-12-13,GGOE00004,Apparel,Paid Search,desktop,26.41
+132971,2016-12-24,GGOE00081,Drinkware,Direct,desktop,28.2
+133083,2017-01-28,GGOE00320,Headgear,Paid Search,desktop,30.28
+133094,2016-11-12,GGOE00336,Nest,Organic Search,desktop,57.14
+133389,2017-01-27,GGOE00003,Apparel,Affiliates,desktop,22.81
+133484,2016-12-04,GGOE00195,Lifestyle,Paid Search,desktop,33.47
+133497,2016-12-17,GGOE00296,Headgear,Organic Search,desktop,18.67
+133513,2016-12-26,GGOE00138,Bags,Paid Search,desktop,108.62
+133650,2017-01-26,GGOE00248,Electronics Accessories,Direct,desktop,18.61
+133724,2016-12-03,GGOE00318,Headgear,Organic Search,desktop,12.0
+133899,2016-11-10,GGOE00324,Headgear,Paid Search,desktop,34.67
+133907,2017-01-12,GGOE00297,Headgear,Organic Search,desktop,25.31
+133976,2016-11-21,GGOE00082,Drinkware,Organic Search,desktop,18.81
+133979,2016-12-15,GGOE00093,Drinkware,Referral,desktop,18.69
+133995,2016-11-17,GGOE00011,Apparel,Direct,desktop,25.36
+134018,2016-11-13,GGOE00025,Apparel,Referral,desktop,36.71
+134073,2017-01-15,GGOE00355,Nest,Organic Search,desktop,94.93
+134187,2017-01-05,GGOE00088,Drinkware,Organic Search,desktop,15.27
+134450,2016-11-12,GGOE00168,Office,Organic Search,desktop,24.07
+134601,2016-12-03,GGOE00006,Apparel,Direct,desktop,12.25
+134658,2017-01-11,GGOE00091,Drinkware,Referral,desktop,26.91
+134704,2016-11-20,GGOE00283,Headgear,Organic Search,desktop,15.19
+134868,2017-01-27,GGOE00262,Electronics Accessories,Direct,desktop,8.49
+134999,2016-11-13,GGOE00315,Headgear,Referral,desktop,11.72
+135212,2016-11-07,GGOE00148,Office,Organic Search,desktop,23.82
+135221,2016-12-07,GGOE00151,Office,Organic Search,desktop,17.24
+135254,2016-12-23,GGOE00309,Headgear,Social,desktop,22.8
+135314,2016-12-29,GGOE00190,Lifestyle,Referral,desktop,11.2
+135369,2017-01-30,GGOE00102,Bags,Organic Search,desktop,67.61
+135370,2017-01-18,GGOE00353,Nest,Referral,desktop,264.12
+135441,2017-01-12,GGOE00191,Lifestyle,Paid Search,desktop,56.41
+135588,2017-01-07,GGOE00092,Drinkware,Direct,desktop,16.69
+135705,2016-12-16,GGOE00243,Electronics Accessories,Direct,desktop,18.98
+135726,2017-01-13,GGOE00138,Bags,Organic Search,desktop,108.62
+135754,2016-12-18,GGOE00062,Drinkware,Direct,desktop,21.91
+135765,2017-01-07,GGOE00322,Headgear,Organic Search,desktop,11.33
+135930,2016-12-02,GGOE00355,Nest,Organic Search,desktop,94.93
+135968,2016-12-26,GGOE00276,Electronics Accessories,Direct,desktop,35.61
+136135,2017-01-13,GGOE00203,Lifestyle,Organic Search,desktop,11.25
+136185,2016-12-21,GGOE00193,Lifestyle,Organic Search,desktop,63.59
+136354,2017-01-27,GGOE00156,Office,Organic Search,desktop,10.56
+136651,2017-01-28,GGOE00017,Apparel,Referral,desktop,50.05
+136688,2016-11-01,GGOE00131,Bags,Referral,desktop,47.41
+136729,2016-11-27,GGOE00240,Electronics Accessories,Organic Search,desktop,22.17
+136873,2016-11-12,GGOE00356,Nest,Referral,desktop,216.47
+137090,2017-01-22,GGOE00165,Office,Direct,desktop,15.27
+137169,2016-12-06,GGOE00279,Electronics Accessories,Organic Search,desktop,18.57
+137391,2016-11-02,GGOE00323,Headgear,Paid Search,desktop,10.48
+137395,2016-11-10,GGOE00346,Nest,Organic Search,desktop,147.53
+137462,2017-01-17,GGOE00270,Electronics Accessories,Organic Search,desktop,21.26
+137585,2016-11-02,GGOE00210,Lifestyle,Paid Search,desktop,17.24
+137592,2016-12-20,GGOE00153,Office,Paid Search,desktop,16.11
+137636,2017-01-26,GGOE00259,Electronics Accessories,Organic Search,desktop,35.05
+137720,2016-11-18,GGOE00148,Office,Organic Search,desktop,23.82
+137783,2016-11-10,GGOE00302,Headgear,Direct,desktop,20.01
+137826,2016-11-11,GGOE00097,Bags,Referral,desktop,13.34
+137843,2016-11-01,GGOE00355,Nest,Direct,desktop,94.93
+137888,2017-01-02,GGOE00049,Apparel,Referral,desktop,53.82
+137954,2016-12-30,GGOE00254,Electronics Accessories,Organic Search,desktop,6.42
+137960,2017-01-16,GGOE00010,Apparel,Referral,mobile,26.55
+137967,2016-12-14,GGOE00342,Nest,Referral,desktop,297.84
+138077,2016-12-27,GGOE00098,Bags,Organic Search,desktop,23.52
+138112,2016-12-01,GGOE00020,Apparel,Direct,desktop,22.33
+138210,2017-01-03,GGOE00192,Lifestyle,Paid Search,desktop,21.61
+138231,2017-01-30,GGOE00218,Lifestyle,Paid Search,desktop,80.37
+138404,2017-01-13,GGOE00247,Electronics Accessories,Organic Search,desktop,18.83
+138483,2016-11-18,GGOE00151,Office,Organic Search,desktop,17.24
+138495,2016-12-13,GGOE00204,Lifestyle,Organic Search,desktop,73.74
+138507,2016-11-13,GGOE00033,Apparel,Referral,desktop,21.24
+138517,2017-01-16,GGOE00315,Headgear,Referral,desktop,11.72
+138658,2016-11-12,GGOE00092,Drinkware,Organic Search,desktop,16.69
+138780,2016-11-09,GGOE00350,Nest,Organic Search,desktop,174.83
+138850,2016-12-04,GGOE00112,Bags,Direct,desktop,112.68
+138865,2016-11-22,GGOE00158,Office,Direct,desktop,2.22
+139035,2016-12-13,GGOE00181,Lifestyle,Organic Search,desktop,50.91
+139138,2017-01-30,GGOE00005,Apparel,Organic Search,desktop,53.93
+139235,2016-12-08,GGOE00289,Headgear,Referral,desktop,29.59
+139251,2016-11-08,GGOE00317,Headgear,Organic Search,desktop,34.81
+139425,2016-11-27,GGOE00077,Drinkware,Direct,desktop,27.6
+139469,2017-01-25,GGOE00325,Headgear,Direct,desktop,11.15
+139763,2017-01-14,GGOE00120,Bags,Organic Search,desktop,79.13
+139784,2017-01-03,GGOE00185,Lifestyle,Direct,desktop,9.66
+139806,2016-11-09,GGOE00231,Electronics Accessories,Organic Search,desktop,40.5
+139828,2016-11-17,GGOE00139,Bags,Organic Search,desktop,91.7
+139990,2016-11-27,GGOE00211,Lifestyle,Referral,desktop,59.38
+140017,2016-11-13,GGOE00330,Headgear,Organic Search,desktop,13.15
+140073,2017-01-06,GGOE00147,Office,Organic Search,desktop,13.47
+140142,2016-12-21,GGOE00283,Headgear,Organic Search,desktop,15.19
+140143,2017-01-31,GGOE00342,Nest,Direct,desktop,297.84
+140192,2016-12-09,GGOE00283,Headgear,Direct,desktop,15.19
+140204,2016-11-20,GGOE00356,Nest,Organic Search,desktop,216.47
+140253,2016-11-25,GGOE00104,Bags,Referral,desktop,47.86
+140308,2016-12-21,GGOE00297,Headgear,Organic Search,mobile,25.31
+140420,2017-01-03,GGOE00076,Drinkware,Organic Search,desktop,28.62
+140572,2016-11-01,GGOE00118,Bags,Direct,desktop,99.68
+140625,2016-11-28,GGOE00061,Drinkware,Referral,desktop,20.95
+140694,2017-01-01,GGOE00205,Lifestyle,Referral,desktop,86.73
+140839,2016-12-24,GGOE00011,Apparel,Direct,desktop,25.36
+140867,2017-01-13,GGOE00021,Apparel,Direct,desktop,19.69
+140871,2017-01-19,GGOE00063,Drinkware,Organic Search,desktop,8.77
+141092,2016-12-10,GGOE00180,Lifestyle,Direct,desktop,79.97
+141156,2016-12-06,GGOE00314,Headgear,Affiliates,desktop,18.46
+141221,2016-11-28,GGOE00037,Apparel,Social,desktop,12.18
+141259,2016-11-03,GGOE00101,Bags,Organic Search,desktop,57.1
+141388,2017-01-25,GGOE00107,Bags,Organic Search,desktop,49.1
+141393,2016-12-29,GGOE00028,Apparel,Organic Search,desktop,42.2
+141405,2016-11-30,GGOE00320,Headgear,Organic Search,desktop,30.28
+141447,2016-12-19,GGOE00090,Drinkware,Organic Search,desktop,5.95
+141690,2017-01-21,GGOE00068,Drinkware,Display,desktop,29.2
+141725,2016-11-15,GGOE00229,Lifestyle,Direct,desktop,67.21
+141876,2016-11-25,GGOE00021,Apparel,Referral,mobile,19.69
+141877,2016-11-08,GGOE00078,Drinkware,Organic Search,desktop,19.24
+141978,2017-01-25,GGOE00329,Headgear,Organic Search,desktop,28.26
+142050,2017-01-26,GGOE00325,Headgear,Referral,desktop,11.15
+142101,2016-11-29,GGOE00276,Electronics Accessories,Organic Search,desktop,35.61
+142124,2017-01-22,GGOE00334,Nest,Organic Search,desktop,65.9
+142129,2016-11-08,GGOE00077,Drinkware,Organic Search,desktop,27.6
+142136,2017-01-26,GGOE00305,Headgear,Direct,desktop,8.9
+142350,2016-12-02,GGOE00177,Office,Organic Search,desktop,18.52
+142408,2017-01-11,GGOE00358,Nest,Direct,desktop,180.73
+142470,2017-01-20,GGOE00149,Office,Referral,desktop,7.02
+142501,2017-01-11,GGOE00147,Office,Organic Search,desktop,13.47
+142505,2017-01-10,GGOE00155,Office,Direct,desktop,8.98
+142634,2016-11-21,GGOE00189,Lifestyle,Direct,desktop,54.5
+142732,2017-01-09,GGOE00346,Nest,Referral,desktop,147.53
+142764,2016-11-27,GGOE00182,Lifestyle,Direct,desktop,83.08
+142794,2016-11-26,GGOE00116,Bags,Organic Search,desktop,25.04
+142817,2016-11-19,GGOE00006,Apparel,Organic Search,desktop,12.25
+142829,2016-12-02,GGOE00319,Headgear,Direct,desktop,27.24
+142832,2016-12-15,GGOE00058,Drinkware,Paid Search,desktop,29.47
+143093,2016-12-30,GGOE00035,Apparel,Organic Search,desktop,21.63
+143124,2016-11-29,GGOE00022,Apparel,Display,desktop,41.4
+143172,2017-01-04,GGOE00304,Headgear,Organic Search,desktop,19.33
+143260,2016-12-25,GGOE00011,Apparel,Organic Search,desktop,25.36
+143321,2016-12-08,GGOE00289,Headgear,Organic Search,desktop,29.59
+143354,2016-11-05,GGOE00137,Bags,Referral,desktop,67.33
+143425,2016-12-29,GGOE00359,Nest,Referral,desktop,119.74
+143474,2016-11-15,GGOE00022,Apparel,Referral,desktop,41.4
+143551,2016-11-28,GGOE00053,Apparel,Direct,desktop,30.61
+143635,2017-01-19,GGOE00179,Lifestyle,Referral,desktop,73.77
+143651,2016-11-13,GGOE00142,Bags,Direct,desktop,106.6
+143777,2017-01-05,GGOE00303,Headgear,Organic Search,desktop,18.21
+143802,2017-01-08,GGOE00060,Drinkware,Referral,desktop,20.13
+143895,2016-12-21,GGOE00247,Electronics Accessories,Organic Search,desktop,18.83
+143971,2016-12-15,GGOE00016,Apparel,Organic Search,desktop,59.78
+143973,2017-01-06,GGOE00192,Lifestyle,Direct,desktop,21.61
+143987,2016-12-10,GGOE00132,Bags,Organic Search,mobile,39.87
+144069,2017-01-30,GGOE00322,Headgear,Referral,desktop,11.33
+144076,2016-12-28,GGOE00097,Bags,Direct,mobile,13.34
+144164,2016-11-23,GGOE00130,Bags,Direct,desktop,73.07
+144185,2016-12-11,GGOE00167,Office,Organic Search,desktop,8.36
+144318,2016-11-14,GGOE00035,Apparel,Organic Search,desktop,21.63
+144320,2017-01-22,GGOE00172,Office,Referral,desktop,5.41
+144427,2017-01-18,GGOE00292,Headgear,Paid Search,desktop,34.91
+144566,2016-11-01,GGOE00077,Drinkware,Organic Search,desktop,27.6
+144593,2017-01-18,GGOE00361,Nest,Paid Search,tablet,206.13
+144718,2016-12-27,GGOE00137,Bags,Direct,desktop,67.33
+144732,2016-11-20,GGOE00241,Electronics Accessories,Organic Search,desktop,30.6
+144736,2017-01-23,GGOE00298,Headgear,Organic Search,desktop,12.98
+144919,2016-11-19,GGOE00317,Headgear,Referral,desktop,34.81
+145149,2016-12-15,GGOE00061,Drinkware,Referral,desktop,20.95
+145176,2017-01-15,GGOE00345,Nest,Paid Search,mobile,110.64
+145225,2016-12-21,GGOE00215,Lifestyle,Organic Search,desktop,73.36
+145318,2017-01-11,GGOE00266,Electronics Accessories,Direct,desktop,15.87
+145457,2017-01-18,GGOE00129,Bags,Referral,desktop,114.29
+145573,2016-11-14,GGOE00039,Apparel,Organic Search,tablet,19.41
+145599,2017-01-25,GGOE00244,Electronics Accessories,Direct,desktop,8.62
+145602,2016-11-30,GGOE00194,Lifestyle,Direct,desktop,9.73
+145625,2017-01-16,GGOE00093,Drinkware,Direct,tablet,18.69
+145749,2016-12-02,GGOE00242,Electronics Accessories,Direct,desktop,7.25
+145816,2016-11-29,GGOE00353,Nest,Organic Search,desktop,264.12
+145867,2016-12-09,GGOE00133,Bags,Direct,tablet,114.72
+145921,2016-12-12,GGOE00077,Drinkware,Direct,desktop,27.6
+146119,2016-12-02,GGOE00318,Headgear,Organic Search,desktop,12.0
+146158,2017-01-23,GGOE00339,Nest,Organic Search,desktop,228.94
+146219,2016-11-01,GGOE00079,Drinkware,Paid Search,desktop,8.64
+146358,2016-12-07,GGOE00040,Apparel,Direct,desktop,24.84
+146366,2016-11-06,GGOE00202,Lifestyle,Social,desktop,55.1
+146461,2016-11-01,GGOE00247,Electronics Accessories,Social,desktop,18.83
+146469,2016-12-22,GGOE00234,Electronics Accessories,Referral,desktop,30.33
+146478,2017-01-29,GGOE00126,Bags,Direct,desktop,49.94
+146562,2016-11-01,GGOE00209,Lifestyle,Organic Search,desktop,34.08
+146580,2016-11-04,GGOE00182,Lifestyle,Direct,desktop,83.08
+146588,2017-01-06,GGOE00205,Lifestyle,Organic Search,tablet,86.73
+146716,2017-01-07,GGOE00147,Office,Direct,desktop,13.47
+146742,2016-12-09,GGOE00271,Electronics Accessories,Organic Search,desktop,40.12
+146743,2016-11-13,GGOE00195,Lifestyle,Referral,desktop,33.47
+146766,2017-01-03,GGOE00027,Apparel,Organic Search,desktop,56.02
+146814,2016-12-13,GGOE00131,Bags,Organic Search,desktop,47.41
+147101,2016-11-26,GGOE00169,Office,Organic Search,mobile,12.18
+147197,2016-12-11,GGOE00198,Lifestyle,Direct,desktop,74.55
+147255,2016-12-10,GGOE00213,Lifestyle,Referral,desktop,33.73
+147288,2016-12-17,GGOE00113,Bags,Display,desktop,10.57
+147324,2016-11-21,GGOE00027,Apparel,Direct,desktop,56.02
+147409,2016-11-07,GGOE00048,Apparel,Organic Search,desktop,36.37
+147431,2016-12-13,GGOE00197,Lifestyle,Referral,desktop,52.15
+147433,2017-01-04,GGOE00315,Headgear,Direct,desktop,11.72
+147493,2017-01-17,GGOE00192,Lifestyle,Direct,desktop,21.61
+147543,2017-01-18,GGOE00285,Headgear,Direct,desktop,28.2
+147649,2016-11-12,GGOE00197,Lifestyle,Referral,desktop,52.15
+147821,2016-11-27,GGOE00027,Apparel,Referral,desktop,56.02
+147834,2016-11-06,GGOE00226,Lifestyle,Organic Search,desktop,75.56
+147855,2016-12-31,GGOE00133,Bags,Social,mobile,114.72
+147856,2017-01-29,GGOE00301,Headgear,Organic Search,desktop,27.47
+147892,2017-01-30,GGOE00173,Office,Direct,desktop,2.48
+148003,2016-12-08,GGOE00269,Electronics Accessories,Paid Search,desktop,10.86
+148006,2016-11-21,GGOE00091,Drinkware,Organic Search,desktop,26.91
+148044,2016-11-17,GGOE00338,Nest,Organic Search,desktop,127.06
+148189,2016-12-14,GGOE00002,Apparel,Organic Search,desktop,49.23
+148195,2016-11-12,GGOE00003,Apparel,Organic Search,desktop,22.81
+148263,2017-01-12,GGOE00098,Bags,Direct,desktop,23.52
+148334,2016-11-02,GGOE00011,Apparel,Paid Search,desktop,25.36
+148377,2016-11-15,GGOE00174,Office,Organic Search,desktop,10.88
+148393,2016-12-27,GGOE00248,Electronics Accessories,Paid Search,desktop,18.61
+148422,2016-12-17,GGOE00101,Bags,Organic Search,desktop,57.1
+148426,2016-11-29,GGOE00339,Nest,Direct,desktop,228.94
+148471,2016-12-11,GGOE00233,Electronics Accessories,Direct,desktop,4.12
+148488,2016-12-18,GGOE00357,Nest,Organic Search,desktop,115.47
+148695,2016-12-07,GGOE00202,Lifestyle,Organic Search,tablet,55.1
+148893,2016-12-22,GGOE00293,Headgear,Organic Search,desktop,33.36
+149116,2017-01-02,GGOE00218,Lifestyle,Organic Search,desktop,80.37
+149214,2017-01-07,GGOE00041,Apparel,Direct,desktop,54.26
+149280,2017-01-02,GGOE00220,Lifestyle,Referral,desktop,55.04
+149292,2016-12-26,GGOE00095,Drinkware,Direct,mobile,23.78
+149430,2016-12-09,GGOE00004,Apparel,Organic Search,desktop,26.41
+149519,2016-12-16,GGOE00136,Bags,Paid Search,desktop,66.71
+149539,2016-11-07,GGOE00013,Apparel,Social,mobile,33.36
+149564,2016-12-03,GGOE00138,Bags,Paid Search,desktop,108.62
+149608,2016-11-19,GGOE00040,Apparel,Organic Search,desktop,24.84
+149640,2016-12-28,GGOE00021,Apparel,Direct,desktop,19.69
+149673,2016-12-01,GGOE00216,Lifestyle,Direct,desktop,18.59
+149791,2016-11-22,GGOE00247,Electronics Accessories,Referral,desktop,18.83
+149793,2017-01-18,GGOE00189,Lifestyle,Direct,desktop,54.5
+149938,2017-01-02,GGOE00142,Bags,Organic Search,desktop,106.6
